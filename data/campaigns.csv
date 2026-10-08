@@ -1,0 +1,46 @@
+campaign_id,campaign_name,campaign_type,sales_region,start_date,end_date,budget_usd
+CMP001,dbt Coalesce 2025,Event,UK&I,2025-05-03,2025-05-07,51777
+CMP002,Data + AI Summit 2025,Event,Continental Europe,2025-05-14,2025-05-20,102200
+CMP003,Data Reliability Webinar Q2 2025,Webinar,Global,2025-05-08,2025-05-21,7889
+CMP004,LinkedIn Ads - Data Leaders Q2 2025,Paid,North America,2025-04-19,2025-05-14,19778
+CMP005,State of Data Observability Report Q2 2025,Content,North America,2025-04-09,2025-05-09,10704
+CMP006,SDR Hadoop Migration Play Q2 2025,Outbound,UK&I,2025-04-16,2025-04-19,0
+CMP007,Cloud Marketplace Co-sell Q2 2025,Partner,Continental Europe,2025-05-06,2025-05-17,22953
+CMP008,dbt Coalesce 2025,Event,Continental Europe,2025-08-29,2025-09-01,72109
+CMP009,Data + AI Summit 2025,Event,North America,2025-07-11,2025-08-02,66931
+CMP010,Data Reliability Webinar Q3 2025,Webinar,UK&I,2025-08-25,2025-09-21,7266
+CMP011,LinkedIn Ads - Data Leaders Q3 2025,Paid,North America,2025-08-27,2025-09-10,29184
+CMP012,State of Data Observability Report Q3 2025,Content,Continental Europe,2025-07-01,2025-07-20,14168
+CMP013,SDR Hadoop Migration Play Q3 2025,Outbound,North America,2025-07-14,2025-08-05,0
+CMP014,Cloud Marketplace Co-sell Q3 2025,Partner,Global,2025-07-19,2025-08-05,13293
+CMP015,dbt Coalesce 2025,Event,North America,2025-11-21,2025-12-07,73504
+CMP016,Data + AI Summit 2025,Event,UK&I,2025-10-08,2025-11-04,91583
+CMP017,Data Reliability Webinar Q4 2025,Webinar,North America,2025-11-06,2025-12-04,6187
+CMP018,LinkedIn Ads - Data Leaders Q4 2025,Paid,Continental Europe,2025-10-27,2025-11-09,36117
+CMP019,State of Data Observability Report Q4 2025,Content,Global,2025-11-03,2025-11-21,5362
+CMP020,SDR Hadoop Migration Play Q4 2025,Outbound,UK&I,2025-10-31,2025-11-14,0
+CMP021,Cloud Marketplace Co-sell Q4 2025,Partner,North America,2025-10-22,2025-10-24,10413
+CMP022,Snowflake Summit 2026,Event,UK&I,2026-02-01,2026-02-02,100364
+CMP023,Data Reliability Webinar Q1 2026,Webinar,Global,2026-01-27,2026-02-05,6853
+CMP024,LinkedIn Ads - Data Leaders Q1 2026,Paid,Global,2026-02-25,2026-03-17,20091
+CMP025,State of Data Observability Report Q1 2026,Content,Global,2026-02-05,2026-02-13,8639
+CMP026,SDR Hadoop Migration Play Q1 2026,Outbound,Global,2026-01-29,2026-02-07,0
+CMP027,Cloud Marketplace Co-sell Q1 2026,Partner,Global,2026-01-10,2026-01-17,23180
+CMP028,Data Reliability Webinar Q2 2026,Webinar,North America,2026-05-23,2026-06-11,4437
+CMP029,LinkedIn Ads - Data Leaders Q2 2026,Paid,North America,2026-05-11,2026-06-02,28357
+CMP030,State of Data Observability Report Q2 2026,Content,UK&I,2026-05-17,2026-06-14,14348
+CMP031,SDR Hadoop Migration Play Q2 2026,Outbound,UK&I,2026-04-21,2026-04-27,0
+CMP032,Cloud Marketplace Co-sell Q2 2026,Partner,Continental Europe,2026-05-02,2026-05-26,24352
+CMP033,Data + AI Summit 2026,Event,Continental Europe,2026-07-16,2026-08-09,87624
+CMP034,Data Reliability Webinar Q3 2026,Webinar,North America,2026-08-25,2026-08-30,5534
+CMP035,LinkedIn Ads - Data Leaders Q3 2026,Paid,Continental Europe,2026-07-02,2026-07-08,31877
+CMP036,State of Data Observability Report Q3 2026,Content,UK&I,2026-07-06,2026-07-26,13230
+CMP037,SDR Hadoop Migration Play Q3 2026,Outbound,Continental Europe,2026-07-07,2026-08-06,0
+CMP038,Cloud Marketplace Co-sell Q3 2026,Partner,Global,2026-07-05,2026-07-24,23097
+CMP039,Snowflake Summit 2026,Event,Global,2026-11-08,2026-11-17,61272
+CMP040,Data + AI Summit 2026,Event,Continental Europe,2026-10-15,2026-11-08,61599
+CMP041,Data Reliability Webinar Q4 2026,Webinar,North America,2026-10-29,2026-11-07,5475
+CMP042,LinkedIn Ads - Data Leaders Q4 2026,Paid,North America,2026-10-22,2026-10-28,30856
+CMP043,State of Data Observability Report Q4 2026,Content,UK&I,2026-10-24,2026-10-29,11384
+CMP044,SDR Hadoop Migration Play Q4 2026,Outbound,North America,2026-11-01,2026-11-27,0
+CMP045,Cloud Marketplace Co-sell Q4 2026,Partner,Continental Europe,2026-10-09,2026-10-15,13037

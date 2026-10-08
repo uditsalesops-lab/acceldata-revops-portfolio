@@ -1,0 +1,401 @@
+opportunity_id,opportunity_name,account_id,owner_id,se_id,opportunity_type,stage,forecast_category,amount_usd,created_date,original_close_date,close_date,close_date_push_count,is_closed,is_won,lead_source,primary_campaign_id,primary_competitor,meddicc_score,economic_buyer_contact_id,champion_contact_id,loss_reason
+O0001,Johansson Holmberg AB - Expansion,A01628,U015,U018,Expansion,Closed Lost,Closed,145000,2026-01-01,2026-05-31,2026-05-31,0,True,False,Event,CMP042,In-house,10,C005667,C005667,Chose competitor
+O0002,Peterson Ford and Walker - New Logo,A01881,U002,U006,New Logo,Closed Lost,Closed,134000,2026-06-24,2026-12-14,2026-10-07,2,True,False,Event,CMP040,Datadog,7,,,No budget
+O0003,Zobel GbR - New Logo,A01639,U014,U018,New Logo,Discovery,Pipeline,293000,2026-09-16,2027-02-12,2027-03-14,1,False,False,SDR Outbound,CMP038,Monte Carlo,3,,C006843,
+O0004,van de Ven & Scholten - Renewal,A01166,U003,U006,Renewal,Closed Lost,Closed,280000,2025-06-20,2025-11-20,2025-12-20,1,True,False,Webinar,CMP035,Monte Carlo,6,C001923,C006010,Chose competitor
+O0005,Simons Groep - New Logo,A00293,U002,U006,New Logo,Closed Won,Closed,95000,2026-05-01,2026-10-15,2026-10-07,0,True,True,Event,CMP021,None,15,C005520,C006099,
+O0006,Andersson HB - New Logo,A00266,U014,U018,New Logo,Closed Won,Closed,31000,2026-02-03,2026-05-28,2026-06-27,1,True,True,Partner,CMP029,Monte Carlo,10,C001180,C005010,
+O0007,Williams Johnson and Wright - Expansion,A00127,U015,U018,Expansion,Discovery,Pipeline,92000,2026-09-26,2027-05-23,2027-06-22,1,False,False,Referral,CMP004,In-house,2,C004902,C004902,
+O0008,Rose - New Logo,A00802,U003,U006,New Logo,Closed Lost,Closed,163000,2026-03-04,2026-07-18,2026-09-16,2,True,False,Referral,,In-house,7,C003220,C003220,No budget
+O0009,Fletcher Adams and Cunningham - New Logo,A00382,U003,U006,New Logo,Closed Won,Closed,57000,2026-02-12,2026-06-18,2026-08-17,2,True,True,Free Trial,CMP038,Datadog,9,C002660,,
+O0010,Gorlitz - New Logo,A02042,U014,U018,New Logo,Closed Lost,Closed,165000,2025-06-08,2025-10-20,2025-10-20,0,True,False,Webinar,CMP010,None,2,,C007008,No decision
+O0011,Juncken GbR - New Logo,A00830,U002,U006,New Logo,Closed Lost,Closed,124000,2026-01-19,2026-06-11,2026-07-11,1,True,False,Content Download,,None,6,C000928,C006817,No decision
+O0012,Powers Group - Renewal,A01311,U009,U012,Renewal,Closed Lost,Closed,150000,2025-11-24,2026-03-28,2026-03-28,0,True,False,Referral,CMP007,Datadog,3,C002508,C006784,Chose competitor
+O0013,Richards-Brown - Renewal,A01593,U003,U006,Renewal,Closed Won,Closed,105000,2025-05-12,2026-01-06,2026-01-06,0,True,True,Content Download,CMP038,Datadog,10,C000924,C006865,
+O0014,Lopez-Johnson - Expansion,A01635,U015,U018,Expansion,Closed Lost,Closed,81000,2025-06-10,2025-10-05,2025-10-05,0,True,False,Webinar,CMP011,None,6,C000324,,Built in-house
+O0015,Forsberg AB - Expansion,A01074,U002,U006,Expansion,Closed Lost,Closed,35000,2025-10-07,2026-05-08,2026-05-08,0,True,False,Event,,Bigeye,10,C003052,C003052,Built in-house
+O0016,Schäfer Blümel GmbH - New Logo,A00333,U015,U018,New Logo,Closed Lost,Closed,175000,2025-11-22,2026-07-01,2026-07-01,0,True,False,Webinar,,None,9,,,Timing
+O0017,Bell-Robinson - New Logo,A00120,U003,U006,New Logo,Closed Lost,Closed,151000,2025-11-01,2026-03-22,2026-04-21,1,True,False,Content Download,CMP034,In-house,8,C000842,C006246,No decision
+O0018,Gude AG - New Logo,A01582,U009,U012,New Logo,Closed Lost,Closed,60000,2025-11-09,2026-06-23,2026-06-23,0,True,False,Free Trial,CMP041,None,5,,,Timing
+O0019,Mende Jüttner KG - New Logo,A01066,U002,U006,New Logo,Closed Lost,Closed,67000,2025-10-19,2026-02-06,2026-03-08,1,True,False,SDR Outbound,CMP006,In-house,5,C001063,C005173,No decision
+O0020,BMC - Renewal,A01359,U015,U018,Renewal,Closed Lost,Closed,90000,2025-12-04,2026-03-12,2026-03-12,0,True,False,Free Trial,CMP027,Datadog,14,,C006481,No decision
+O0021,Koninklijke Dorsman - Expansion,A00079,U003,U006,Expansion,Closed Lost,Closed,90000,2026-04-06,2026-07-17,2026-07-17,0,True,False,Event,CMP027,Monte Carlo,5,C001510,,No decision
+O0022,Söderholm & Nilsson HB - New Logo,A01006,U002,U006,New Logo,Closed Lost,Closed,140000,2026-02-20,2026-07-26,2026-08-25,1,True,False,Free Trial,CMP038,None,6,C000821,C000821,Chose competitor
+O0023,Jacobs BV - New Logo,A00490,U015,U018,New Logo,Closed Lost,Closed,136000,2025-07-28,2025-11-08,2025-11-08,0,True,False,Webinar,CMP011,None,9,C000593,,Timing
+O0024,Lopez Phillips and Guerrero - New Logo,A01528,U003,U006,New Logo,Closed Lost,Closed,73000,2026-07-24,2027-01-25,2026-10-07,0,True,False,Event,,Monte Carlo,2,,C004423,No decision
+O0025,Woutersz & de Boer - New Logo,A00342,U002,U006,New Logo,Closed Lost,Closed,180000,2025-11-23,2026-05-23,2026-06-22,1,True,False,Webinar,CMP037,Monte Carlo,8,C000584,C003039,Chose competitor
+O0026,Granberg & Berg AB - Expansion,A00158,U003,U006,Expansion,Business Case,Best Case,69000,2026-06-03,2026-10-29,2026-10-29,0,False,False,Free Trial,CMP013,Datadog,10,,C001892,
+O0027,Nieuwstraten & Vaessen - Expansion,A01623,U015,U018,Expansion,Closed Lost,Closed,152000,2025-09-08,2026-01-03,2026-01-03,0,True,False,Content Download,CMP034,In-house,6,C001016,C006737,No budget
+O0028,Gorlitz - New Logo,A02042,U014,U018,New Logo,Closed Won,Closed,103000,2025-04-01,2025-07-21,2025-07-21,0,True,True,Partner,,None,13,C007008,C007008,
+O0029,Hamann - New Logo,A00712,U003,U006,New Logo,Closed Lost,Closed,181000,2026-04-04,2026-09-23,2026-10-07,3,True,False,Free Trial,CMP025,Bigeye,9,,,No budget
+O0030,Reed Law and Ferguson - New Logo,A01447,U002,U006,New Logo,Closed Lost,Closed,118000,2025-04-10,2025-10-05,2025-11-04,1,True,False,SDR Outbound,,In-house,10,C002082,,Chose competitor
+O0031,Stevenson Pearson and Middleton - Expansion,A01613,U014,U018,Expansion,Closed Lost,Closed,129000,2025-11-06,2026-04-22,2026-05-22,1,True,False,Partner,CMP015,Monte Carlo,8,C001717,C006400,Chose competitor
+O0032,ASML - Expansion,A00921,U014,U018,Expansion,Closed Lost,Closed,186000,2026-05-26,2026-12-23,2026-10-07,1,True,False,Webinar,CMP024,Datadog,12,C002649,C005901,No decision
+O0033,Sutton-Jones - New Logo,A01253,U003,U006,New Logo,Closed Lost,Closed,70000,2026-03-20,2026-08-27,2026-08-27,0,True,False,Free Trial,,In-house,6,C000325,,Timing
+O0034,Edman HB - New Logo,A00090,U015,U018,New Logo,Closed Lost,Closed,81000,2025-09-23,2026-05-06,2026-05-06,0,True,False,Webinar,CMP013,Monte Carlo,6,,,No budget
+O0035,Mårtensson Sandin AB - New Logo,A01358,U009,U012,New Logo,Closed Lost,Closed,187000,2025-08-18,2026-03-08,2026-04-07,1,True,False,SDR Outbound,CMP010,Bigeye,4,C000996,C003986,Chose competitor
+O0036,Francis-Thomas - New Logo,A01134,U014,U018,New Logo,Closed Lost,Closed,135000,2025-05-28,2025-10-31,2025-10-31,0,True,False,Partner,,Monte Carlo,11,C000238,C004556,No decision
+O0037,Reese Perkins and Cunningham - New Logo,A01678,U015,U018,New Logo,Closed Lost,Closed,165000,2026-07-07,2027-03-01,2026-10-07,0,True,False,Free Trial,CMP010,None,11,,C005941,No decision
+O0038,Zijlmans NV - New Logo,A00467,U003,U006,New Logo,Closed Lost,Closed,180000,2026-06-26,2027-01-26,2026-10-07,0,True,False,SDR Outbound,CMP026,None,11,,,No decision
+O0039,Haering GmbH & Co. OHG - New Logo,A00759,U008,U012,New Logo,Closed Lost,Closed,62000,2026-01-23,2026-08-14,2026-08-14,0,True,False,Paid Search,CMP007,Monte Carlo,10,C001149,C003715,Built in-house
+O0040,van den Broek & Beekman - New Logo,A01143,U003,U006,New Logo,Closed Lost,Closed,110000,2025-10-02,2026-03-15,2026-06-13,3,True,False,Partner,CMP025,Monte Carlo,9,,,Chose competitor
+O0041,auch Schlauchin KG - New Logo,A00130,U003,U006,New Logo,Technical Validation,Pipeline,88000,2026-06-05,2026-09-11,2026-09-11,0,False,False,Free Trial,CMP044,In-house,4,,C005573,
+O0042,Reyes Group - New Logo,A01619,U002,U006,New Logo,Closed Lost,Closed,162000,2025-08-15,2025-12-10,2025-12-10,0,True,False,Event,,In-house,5,,,Timing
+O0043,Schakelaar BV - New Logo,A01437,U002,U006,New Logo,Closed Lost,Closed,102000,2025-12-17,2026-07-20,2026-07-20,0,True,False,Webinar,CMP032,Datadog,4,,C002999,Chose competitor
+O0044,Royal Langevoort - New Logo,A01380,U003,U006,New Logo,Closed Lost,Closed,399000,2026-06-10,2026-12-18,2026-10-07,3,True,False,Paid Search,CMP025,Bigeye,3,,,Timing
+O0045,Moss James and Edwards - New Logo,A01360,U003,U006,New Logo,Closed Lost,Closed,183000,2026-07-12,2027-02-08,2026-10-07,0,True,False,Event,,None,5,,C006616,No budget
+O0046,Conway LLC - New Logo,A01252,U008,U012,New Logo,Closed Won,Closed,186000,2026-06-25,2026-11-06,2026-10-07,0,True,True,Event,CMP028,None,6,C001954,C004552,
+O0047,Richardson-Baker - New Logo,A00584,U002,U006,New Logo,Closed Lost,Closed,136000,2026-04-08,2026-08-04,2026-09-03,1,True,False,Event,,Datadog,4,C001600,C005734,No decision
+O0048,van den Nuwenhuijzen BV - New Logo,A01007,U003,U006,New Logo,Closed Lost,Closed,113000,2025-04-20,2025-08-15,2025-09-14,1,True,False,Webinar,CMP036,Datadog,5,C001645,C005845,No decision
+O0049,Chavez Carney and Hammond - Expansion,A01529,U002,U006,Expansion,Closed Lost,Closed,126000,2025-07-04,2025-12-17,2025-12-17,0,True,False,Free Trial,CMP007,Bigeye,7,,C005924,No decision
+O0050,Olsson & Möller HB - New Logo,A00512,U003,U006,New Logo,Closed Won,Closed,74000,2025-12-11,2026-04-05,2026-04-05,0,True,True,Partner,CMP039,None,10,C000177,,
+O0051,Sandberg & Börjesson AB - New Logo,A01378,U002,U006,New Logo,Closed Lost,Closed,177000,2025-06-18,2026-01-01,2026-01-01,0,True,False,Event,CMP021,Monte Carlo,6,,,No budget
+O0052,Mentzel Eimer AG & Co. KG - Expansion,A00999,U015,U018,Expansion,Closed Lost,Closed,111000,2025-08-15,2025-12-17,2025-12-17,0,True,False,Paid Search,CMP039,None,13,,,No decision
+O0053,van de Berg BV - Expansion,A01094,U002,U006,Expansion,Closed Lost,Closed,142000,2026-06-13,2026-11-28,2026-10-07,0,True,False,Referral,CMP029,Bigeye,9,C000232,C003445,Chose competitor
+O0054,Kirby-Williams - New Logo,A00056,U009,U012,New Logo,Closed Lost,Closed,78000,2025-10-24,2026-03-24,2026-03-24,0,True,False,Webinar,,In-house,6,C001427,C003732,Timing
+O0055,Pettersson & Sjöstedt AB - New Logo,A00355,U014,U018,New Logo,Closed Lost,Closed,63000,2026-02-09,2026-06-09,2026-06-09,0,True,False,Free Trial,,Monte Carlo,9,,C005740,No decision
+O0056,d' Heripon & de Gruson - New Logo,A00846,U009,U012,New Logo,Closed Lost,Closed,104000,2025-08-25,2026-03-08,2026-03-08,0,True,False,SDR Outbound,CMP026,None,11,C000603,,Built in-house
+O0057,Johnson Inc - New Logo,A00879,U014,U018,New Logo,Closed Lost,Closed,186000,2026-04-09,2026-08-14,2026-09-13,1,True,False,Partner,CMP002,Datadog,5,,,Built in-house
+O0058,Hansson & Niklasson AB - New Logo,A01815,U014,U018,New Logo,Closed Lost,Closed,84000,2025-11-01,2026-06-02,2026-08-31,3,True,False,Content Download,,Monte Carlo,7,C002465,C002465,Chose competitor
+O0059,Olsson & Nilsson AB - Expansion,A00736,U002,U006,Expansion,POC,Best Case,138000,2026-07-07,2026-10-18,2026-11-17,1,False,False,SDR Outbound,,Datadog,9,C000867,C004433,
+O0060,Wood-Black - New Logo,A01920,U014,U018,New Logo,Closed Won,Closed,184000,2025-04-23,2025-10-11,2025-10-11,0,True,True,Event,CMP021,Datadog,13,,C006231,
+O0061,Ahlqvist & Lundström HB - New Logo,A00711,U002,U006,New Logo,Closed Lost,Closed,114000,2026-03-06,2026-10-28,2026-10-07,0,True,False,Content Download,CMP011,Datadog,8,,C006277,Built in-house
+O0062,Farmer-Hutchinson - New Logo,A01473,U002,U006,New Logo,Closed Lost,Closed,98000,2025-10-18,2026-05-05,2026-08-03,3,True,False,Free Trial,CMP032,None,13,,C006417,Chose competitor
+O0063,Hernandez Watson and Ritter - New Logo,A01986,U003,U006,New Logo,Closed Lost,Closed,96000,2026-02-04,2026-08-31,2026-08-31,0,True,False,Content Download,CMP034,Monte Carlo,7,C001416,,No decision
+O0064,CGI Nederland - Renewal,A00992,U015,U018,Renewal,Closed Lost,Closed,72000,2026-04-05,2026-09-18,2026-09-18,0,True,False,Event,CMP045,Monte Carlo,6,,C006295,No decision
+O0065,Delacruz-Morrow - Expansion,A01810,U009,U012,Expansion,Technical Validation,Pipeline,123000,2026-07-20,2027-02-25,2027-03-27,1,False,False,Content Download,CMP018,Datadog,7,,,
+O0066,Roberts Hanson and Dean - New Logo,A01122,U002,U006,New Logo,Closed Won,Closed,147000,2026-05-02,2026-08-09,2026-09-08,1,True,True,Partner,,Datadog,15,,C005550,
+O0067,Royal van Breugel - New Logo,A01812,U002,U006,New Logo,Closed Won,Closed,137000,2025-10-06,2026-02-19,2026-03-21,1,True,True,Webinar,,Datadog,12,C000328,,
+O0068,Ahmed HB - New Logo,A01828,U003,U006,New Logo,Business Case,Best Case,83000,2026-05-30,2026-11-19,2026-11-19,0,False,False,Partner,,Datadog,13,,,
+O0069,Royal van Breugel - New Logo,A01812,U002,U006,New Logo,Closed Lost,Closed,70000,2025-06-10,2025-10-01,2025-10-01,0,True,False,Free Trial,CMP006,Datadog,2,C000328,,Chose competitor
+O0070,Hall & Nyman HB - Renewal,A00105,U015,U018,Renewal,Discovery,Pipeline,151000,2026-07-19,2026-11-02,2027-01-31,3,False,False,Webinar,CMP034,None,4,,,
+O0071,Gordon Wilson and Olson - New Logo,A01113,U015,U018,New Logo,Closed Lost,Closed,156000,2026-07-28,2026-11-01,2026-10-07,0,True,False,Partner,,Monte Carlo,9,,,Built in-house
+O0072,Damen Shipyard - Expansion,A00866,U008,U012,Expansion,Closed Lost,Closed,110000,2026-01-26,2026-08-28,2026-09-27,1,True,False,Webinar,CMP011,Bigeye,4,C000229,C002084,Timing
+O0073,Gordon LLC - Renewal,A00541,U003,U006,Renewal,Technical Validation,Pipeline,114000,2026-05-21,2026-11-21,2026-12-21,1,False,False,Partner,,Bigeye,6,,C004638,
+O0074,Lange Wohlgemut GmbH - New Logo,A00343,U003,U006,New Logo,POC,Best Case,67000,2026-08-14,2027-01-25,2027-02-24,1,False,False,Event,,Monte Carlo,10,C001938,,
+O0075,van Mare Groep - New Logo,A01269,U009,U012,New Logo,POC,Best Case,75000,2026-05-26,2026-12-13,2026-12-13,0,False,False,Event,CMP001,Monte Carlo,6,C002978,C006390,
+O0076,Wells Coffey and Patton - New Logo,A00469,U003,U006,New Logo,Closed Won,Closed,79000,2025-08-30,2026-04-04,2026-04-04,0,True,True,Partner,CMP025,Bigeye,12,,C003513,
+O0077,Essent - New Logo,A00600,U003,U006,New Logo,Closed Won,Closed,100000,2026-01-16,2026-06-27,2026-07-27,1,True,True,Event,CMP039,None,14,,C004981,
+O0078,Kennedy Jackson and Williams - New Logo,A01498,U003,U006,New Logo,Closed Lost,Closed,162000,2026-02-15,2026-07-10,2026-09-08,2,True,False,Webinar,,Datadog,5,,C003727,No budget
+O0079,Cole-Farrell - Expansion,A01744,U002,U006,Expansion,Closed Lost,Closed,63000,2026-04-08,2026-09-06,2026-10-07,3,True,False,Content Download,CMP027,In-house,2,,C006982,Timing
+O0080,Mosley & van 't Wel - New Logo,A01106,U008,U012,New Logo,Closed Lost,Closed,66000,2026-06-05,2026-11-17,2026-10-07,0,True,False,Event,CMP001,In-house,2,,,Timing
+O0081,Coleman Jordan and Carney - New Logo,A00399,U015,U018,New Logo,Closed Won,Closed,83000,2026-06-19,2027-01-09,2026-10-07,0,True,True,Referral,,Monte Carlo,14,,,
+O0082,Ottosson AB - New Logo,A01107,U014,U018,New Logo,Closed Lost,Closed,146000,2025-05-22,2025-08-30,2025-11-28,3,True,False,Content Download,CMP016,In-house,13,C000137,C006530,No decision
+O0083,FloraHolland - New Logo,A00913,U015,U018,New Logo,Closed Lost,Closed,133000,2025-10-31,2026-03-17,2026-04-16,1,True,False,Event,,Datadog,12,C000706,C005992,No budget
+O0084,Hehl & Huisman - New Logo,A00958,U003,U006,New Logo,Closed Lost,Closed,66000,2026-05-14,2026-10-09,2026-10-07,2,True,False,Free Trial,CMP024,Monte Carlo,6,C000348,C005584,Timing
+O0085,Hoppenbrouwer & Claassen - New Logo,A01167,U003,U006,New Logo,Closed Lost,Closed,104000,2025-09-28,2026-02-28,2026-02-28,0,True,False,Webinar,CMP018,Monte Carlo,8,C001904,C003961,Built in-house
+O0086,Morris-Holmes - Expansion,A00884,U003,U006,Expansion,Closed Lost,Closed,116000,2026-03-27,2026-10-26,2026-10-07,1,True,False,Event,CMP022,Bigeye,3,C001328,C001328,Timing
+O0087,Nordström HB - Expansion,A01013,U009,U012,Expansion,Closed Won,Closed,330000,2025-09-10,2026-05-08,2026-06-07,1,True,True,Partner,CMP007,Bigeye,12,C002106,,
+O0088,Farmer-Hutchinson - Expansion,A01473,U002,U006,Expansion,Closed Lost,Closed,128000,2026-06-13,2026-11-25,2026-10-07,1,True,False,Referral,CMP023,In-house,5,,C006417,Chose competitor
+O0089,Davis-Williams - Renewal,A00519,U008,U012,Renewal,POC,Best Case,124000,2026-07-21,2026-11-22,2026-11-22,0,False,False,Event,CMP028,Monte Carlo,10,,C003576,
+O0090,Peter Appel Transport - Expansion,A01748,U003,U006,Expansion,Closed Lost,Closed,191000,2025-06-05,2025-10-22,2025-10-22,0,True,False,Content Download,CMP004,Bigeye,6,C005330,,No budget
+O0091,Harris Webb and Mills - New Logo,A00400,U015,U018,New Logo,Closed Lost,Closed,93000,2026-03-17,2026-11-07,2026-10-07,1,True,False,SDR Outbound,CMP031,Datadog,6,C000116,C004239,Built in-house
+O0092,Döring - New Logo,A00985,U003,U006,New Logo,Technical Validation,Pipeline,140000,2026-09-13,2027-04-21,2027-04-21,0,False,False,Partner,CMP013,None,9,C000670,C006954,
+O0093,Moore LLC - Renewal,A01674,U015,U018,Renewal,Closed Lost,Closed,58000,2025-08-06,2025-11-07,2025-11-07,0,True,False,Referral,CMP003,Monte Carlo,11,C002448,C002448,Built in-house
+O0094,Tauw - New Logo,A01779,U015,U018,New Logo,Closed Lost,Closed,94000,2025-06-28,2025-12-07,2026-03-07,3,True,False,Paid Search,CMP042,Monte Carlo,10,,C002610,Chose competitor
+O0095,Lorch - Expansion,A00317,U015,U018,Expansion,Closed Lost,Closed,115000,2025-09-15,2026-02-08,2026-02-08,0,True,False,Content Download,,Datadog,5,,,Chose competitor
+O0096,Gutknecht - New Logo,A00941,U014,U018,New Logo,Technical Validation,Pipeline,43000,2026-08-29,2027-04-25,2027-06-24,2,False,False,Webinar,,Datadog,9,C002201,C004679,
+O0097,Moreno Perez and Lang - Expansion,A01116,U014,U018,Expansion,Closed Won,Closed,80000,2026-01-29,2026-07-11,2026-07-11,0,True,True,Partner,CMP019,In-house,8,C001369,C006351,
+O0098,Tomlinson Mistry and Edwards - New Logo,A01952,U009,U012,New Logo,Closed Lost,Closed,185000,2026-03-18,2026-11-01,2026-10-07,1,True,False,Paid Search,CMP018,In-house,11,C000618,,Built in-house
+O0099,Jones Baker and Hodgson - Expansion,A00550,U009,U012,Expansion,Closed Lost,Closed,93000,2026-03-24,2026-07-18,2026-10-07,3,True,False,Event,CMP012,Monte Carlo,11,,,No budget
+O0100,Bolander - New Logo,A00849,U002,U006,New Logo,Closed Lost,Closed,53000,2026-07-08,2026-10-13,2026-10-07,0,True,False,Free Trial,CMP021,Bigeye,10,,,Timing
+O0101,auch Schlauchin KG - New Logo,A00130,U003,U006,New Logo,Closed Won,Closed,67000,2025-07-07,2026-02-19,2026-02-19,0,True,True,SDR Outbound,CMP018,Bigeye,14,,,
+O0102,Bayer - New Logo,A01718,U008,U012,New Logo,Closed Lost,Closed,183000,2025-05-25,2026-01-02,2026-01-02,0,True,False,Free Trial,CMP010,Bigeye,10,,C006497,Chose competitor
+O0103,Trommler KG - New Logo,A00160,U002,U006,New Logo,Closed Lost,Closed,162000,2025-11-02,2026-06-25,2026-06-25,0,True,False,SDR Outbound,CMP024,Datadog,11,C000044,C006690,No budget
+O0104,Andersson & Nilsson AB - Renewal,A01621,U014,U018,Renewal,Closed Lost,Closed,79000,2026-07-23,2026-11-04,2026-10-07,1,True,False,Free Trial,CMP039,Bigeye,5,C000072,C000974,Chose competitor
+O0105,Mohaupt Hesse GbR - New Logo,A00848,U003,U006,New Logo,Closed Lost,Closed,303000,2025-05-11,2025-09-12,2025-11-11,2,True,False,SDR Outbound,CMP001,None,8,C002164,C006703,Timing
+O0106,Karlsson Gustavsson AB - New Logo,A00309,U014,U018,New Logo,Technical Validation,Pipeline,79000,2026-09-07,2027-04-16,2027-04-16,0,False,False,Partner,CMP033,In-house,4,C004060,C006875,
+O0107,Lidström Öberg HB - New Logo,A00237,U015,U018,New Logo,Technical Validation,Pipeline,33000,2026-08-09,2027-02-16,2027-02-16,0,False,False,SDR Outbound,CMP044,Bigeye,7,,,
+O0108,Taylor Power and Mitchell - New Logo,A00107,U003,U006,New Logo,Closed Lost,Closed,349000,2025-10-12,2026-06-01,2026-06-01,0,True,False,Event,,None,7,,C004636,No decision
+O0109,van Rijnsbergen BV - Expansion,A01152,U014,U018,Expansion,Closed Lost,Closed,35000,2026-04-14,2026-11-13,2026-10-07,1,True,False,Referral,CMP003,None,7,C000379,C004691,Chose competitor
+O0110,Hammar Bengtsson HB - New Logo,A01763,U003,U006,New Logo,Closed Lost,Closed,108000,2026-04-21,2026-10-07,2026-10-07,0,True,False,Referral,CMP041,Datadog,9,C001096,,Built in-house
+O0111,Smith-Saunders - New Logo,A00765,U015,U018,New Logo,Closed Lost,Closed,90000,2025-08-03,2026-03-19,2026-04-18,1,True,False,Paid Search,CMP011,Monte Carlo,6,C000096,C006570,Built in-house
+O0112,Marshall LLC - Expansion,A01011,U009,U012,Expansion,Discovery,Pipeline,68000,2026-09-22,2027-01-23,2027-02-22,1,False,False,Event,CMP041,Bigeye,7,,,
+O0113,Hallgren Nilsson AB - New Logo,A00859,U015,U018,New Logo,Closed Lost,Closed,102000,2026-02-24,2026-06-07,2026-07-07,1,True,False,Free Trial,CMP004,Bigeye,5,,,No decision
+O0114,Walker-Berry - New Logo,A01676,U008,U012,New Logo,Technical Validation,Pipeline,185000,2026-09-13,2027-01-15,2027-01-15,0,False,False,Free Trial,CMP014,Monte Carlo,8,C003292,,
+O0115,Hudson Bradshaw and Jones - New Logo,A00030,U003,U006,New Logo,Closed Won,Closed,105000,2025-08-07,2026-01-13,2026-02-12,1,True,True,Paid Search,CMP026,Bigeye,12,,C006831,
+O0116,Heymans Groep - Renewal,A01235,U002,U006,Renewal,Closed Lost,Closed,58000,2025-07-26,2026-02-11,2026-02-11,0,True,False,Referral,CMP005,None,7,,C001359,No decision
+O0117,Vasquez Ltd - New Logo,A00986,U003,U006,New Logo,Closed Won,Closed,94000,2026-03-20,2026-09-30,2026-09-30,0,True,True,Free Trial,,None,11,,,
+O0118,Hope Group - New Logo,A00813,U003,U006,New Logo,Closed Won,Closed,170000,2026-04-22,2026-08-15,2026-10-07,2,True,True,Referral,CMP028,Datadog,14,,C005976,
+O0119,Göransson HB - Expansion,A00334,U002,U006,Expansion,Discovery,Pipeline,66000,2026-09-07,2026-12-22,2027-01-21,1,False,False,Referral,CMP003,Datadog,7,,C005883,
+O0120,Collins-Newman - New Logo,A01449,U003,U006,New Logo,Closed Lost,Closed,160000,2025-07-31,2025-12-28,2025-12-28,0,True,False,Event,CMP026,In-house,8,C002859,C006657,Chose competitor
+O0121,Lidström AB - New Logo,A01045,U014,U018,New Logo,Business Case,Best Case,168000,2026-07-08,2027-03-04,2027-03-04,0,False,False,Referral,CMP020,Datadog,9,C000055,,
+O0122,Jurrijens & Aelftrud van Wessex - New Logo,A01604,U002,U006,New Logo,Closed Lost,Closed,43000,2025-05-06,2025-08-09,2025-08-09,0,True,False,Paid Search,CMP038,Bigeye,9,,C005605,Chose competitor
+O0123,Gilbert-Crosby - Renewal,A00260,U002,U006,Renewal,Closed Lost,Closed,87000,2025-04-03,2025-11-06,2025-11-06,0,True,False,Content Download,,In-house,6,C000139,C006638,Built in-house
+O0124,Glover Jones and Flynn - New Logo,A01112,U003,U006,New Logo,Technical Validation,Pipeline,130000,2026-08-14,2026-12-30,2026-12-30,0,False,False,SDR Outbound,,Bigeye,9,C000854,,
+O0125,Roman-Nelson - New Logo,A00739,U002,U006,New Logo,Closed Lost,Closed,148000,2025-10-07,2026-01-27,2026-01-27,0,True,False,Event,CMP023,Bigeye,2,,,No budget
+O0126,Mcdonald-Miller - New Logo,A01883,U008,U012,New Logo,Closed Lost,Closed,60000,2026-01-15,2026-09-01,2026-09-01,0,True,False,Paid Search,CMP018,Datadog,9,C000180,C000180,Chose competitor
+O0127,Junitz Drub e.G. - Expansion,A00192,U015,U018,Expansion,Closed Won,Closed,149000,2025-06-27,2025-10-23,2025-11-22,1,True,True,Partner,CMP029,Monte Carlo,10,C000135,C006893,
+O0128,Patberg - Expansion,A01965,U003,U006,Expansion,Closed Lost,Closed,113000,2025-12-17,2026-04-21,2026-05-21,1,True,False,Event,CMP002,In-house,4,,C006081,Built in-house
+O0129,Geldens & van Metz - Renewal,A01448,U002,U006,Renewal,Closed Lost,Closed,158000,2025-06-10,2025-11-29,2025-12-29,1,True,False,Content Download,,Monte Carlo,6,,,Built in-house
+O0130,Riley Foster and Brown - New Logo,A01298,U008,U012,New Logo,Closed Won,Closed,72000,2026-04-03,2026-10-28,2026-10-07,0,True,True,Paid Search,,Bigeye,13,,C006367,
+O0131,Walker-Berry - Expansion,A01676,U008,U012,Expansion,Closed Lost,Closed,188000,2025-12-06,2026-07-25,2026-10-07,3,True,False,Webinar,CMP023,Monte Carlo,3,C003292,C005280,Built in-house
+O0132,Moberg Sandström HB - New Logo,A00478,U003,U006,New Logo,Technical Validation,Pipeline,72000,2026-08-26,2027-02-27,2027-04-28,2,False,False,SDR Outbound,,None,6,C001091,C006987,
+O0133,Chan-Page - New Logo,A00755,U002,U006,New Logo,Closed Lost,Closed,87000,2025-07-14,2025-12-30,2026-02-28,2,True,False,Event,CMP043,Bigeye,2,C000112,C006281,No budget
+O0134,Salazar-Brown - New Logo,A00733,U014,U018,New Logo,Business Case,Best Case,66000,2026-06-10,2026-12-16,2027-02-14,2,False,False,Paid Search,CMP019,None,11,,C006742,
+O0135,de Bruin & Muijs - Expansion,A01592,U015,U018,Expansion,Closed Lost,Closed,94000,2025-11-25,2026-07-12,2026-10-07,3,True,False,SDR Outbound,CMP035,Datadog,9,C000569,,No decision
+O0136,Bolander GbR - New Logo,A02005,U003,U006,New Logo,Closed Lost,Closed,74000,2025-06-25,2026-02-03,2026-02-03,0,True,False,Content Download,,In-house,7,C006912,C006912,Timing
+O0137,Bloch - New Logo,A01367,U003,U006,New Logo,Closed Lost,Closed,130000,2025-07-13,2026-03-10,2026-03-10,0,True,False,Free Trial,CMP013,Datadog,7,C001830,C005429,No decision
+O0138,Foster Henry and Morrison - New Logo,A01659,U008,U012,New Logo,Closed Lost,Closed,48000,2025-09-09,2026-01-05,2026-02-04,1,True,False,Referral,,Bigeye,3,C002399,C002399,Timing
+O0139,Williams Wood and Hughes - New Logo,A00784,U003,U006,New Logo,POC,Best Case,87000,2026-06-30,2026-10-23,2026-11-22,1,False,False,Referral,,Bigeye,10,,C002515,
+O0140,Sager - New Logo,A00208,U014,U018,New Logo,Closed Lost,Closed,162000,2026-05-03,2026-12-17,2026-10-07,1,True,False,SDR Outbound,CMP030,Bigeye,4,,C006827,No budget
+O0141,Schmiedecke GmbH - Renewal,A01765,U008,U012,Renewal,Closed Lost,Closed,163000,2025-04-21,2025-09-28,2025-09-28,0,True,False,SDR Outbound,CMP006,Datadog,10,,,Chose competitor
+O0142,Werner Hansson HB - Renewal,A00599,U014,U018,Renewal,Closed Won,Closed,142000,2025-08-15,2026-03-09,2026-03-09,0,True,True,Paid Search,CMP027,None,11,,,
+O0143,Fliegner Hövel OHG mbH - New Logo,A01479,U002,U006,New Logo,Closed Lost,Closed,58000,2025-05-24,2026-01-08,2026-01-08,0,True,False,Referral,CMP027,In-house,4,,,No budget
+O0144,Ismail HB - Expansion,A01370,U014,U018,Expansion,Closed Lost,Closed,67000,2025-09-15,2026-01-02,2026-03-03,2,True,False,Event,CMP010,In-house,11,,,Chose competitor
+O0145,van Goerle & van der Mast - New Logo,A00209,U003,U006,New Logo,Closed Lost,Closed,66000,2026-04-30,2026-12-03,2026-10-07,1,True,False,SDR Outbound,,None,6,C003878,,No decision
+O0146,Salazar-Brown - New Logo,A00733,U014,U018,New Logo,POC,Best Case,61000,2026-07-26,2027-01-23,2027-01-23,0,False,False,Partner,CMP022,In-house,11,,,
+O0147,Todd-Ward - Expansion,A02013,U002,U006,Expansion,Discovery,Pipeline,127000,2026-05-23,2026-12-06,2026-12-06,0,False,False,Partner,CMP016,Monte Carlo,7,,C006936,
+O0148,Nette - Expansion,A01320,U003,U006,Expansion,Closed Won,Closed,96000,2026-08-07,2027-02-28,2026-10-07,0,True,True,Paid Search,CMP023,None,10,,C004980,
+O0149,Klingelhöfer Hornig AG & Co. OHG - New Logo,A01031,U015,U018,New Logo,Closed Lost,Closed,99000,2025-09-19,2026-02-19,2026-04-20,2,True,False,Event,,In-house,8,C001152,C005398,No decision
+O0150,Ekholm Jakobsson HB - Renewal,A01772,U003,U006,Renewal,Discovery,Pipeline,150000,2026-09-20,2027-04-08,2027-05-08,1,False,False,Paid Search,CMP038,Datadog,6,,C006291,
+O0151,Christoph Röhrdanz GmbH & Co. KG - Renewal,A00752,U003,U006,Renewal,Closed Lost,Closed,62000,2026-03-08,2026-10-27,2026-10-07,1,True,False,SDR Outbound,CMP024,None,5,,C002786,No budget
+O0152,Webb LLC - Expansion,A00326,U002,U006,Expansion,Closed Won,Closed,78000,2025-12-14,2026-04-12,2026-04-12,0,True,True,Partner,CMP007,None,15,,C004633,
+O0153,King-Wright - Renewal,A00616,U014,U018,Renewal,Closed Lost,Closed,84000,2026-05-30,2026-11-29,2026-10-07,1,True,False,Paid Search,CMP014,In-house,7,,C005335,Chose competitor
+O0154,Gotthard GbR - Expansion,A00786,U015,U018,Expansion,Closed Won,Closed,67000,2026-03-01,2026-10-26,2026-10-07,0,True,True,Partner,CMP040,Datadog,14,C000828,C006431,
+O0155,Stahr Schleich GmbH - New Logo,A01734,U003,U006,New Logo,Technical Validation,Pipeline,99000,2026-08-13,2027-03-09,2027-04-08,1,False,False,Paid Search,CMP026,Datadog,4,C002345,C002566,
+O0156,Smith-Saunders - New Logo,A00765,U015,U018,New Logo,Discovery,Pipeline,98000,2026-09-19,2027-02-25,2027-02-25,0,False,False,Webinar,CMP040,Datadog,6,,C006570,
+O0157,Fletcher Adams and Cunningham - New Logo,A00382,U003,U006,New Logo,Negotiation/Procurement,Commit,71000,2026-06-07,2026-11-05,2026-01-22,0,False,False,SDR Outbound,CMP013,In-house,10,C002660,C003284,
+O0158,Svensson Nilsson AB - New Logo,A01776,U008,U012,New Logo,Closed Won,Closed,68000,2026-01-02,2026-06-25,2026-07-25,1,True,True,Webinar,CMP032,Monte Carlo,10,,,
+O0159,Lips & Voortman - Expansion,A01427,U003,U006,Expansion,Closed Won,Closed,175000,2025-09-18,2026-01-04,2026-04-04,3,True,True,Event,CMP015,None,9,C001897,C003733,
+O0160,Garner LLC - New Logo,A01397,U003,U006,New Logo,Closed Lost,Closed,58000,2025-06-09,2025-11-24,2025-11-24,0,True,False,Referral,CMP011,Datadog,7,C001838,C006713,Built in-house
+O0161,Rodriguez-Taylor - Renewal,A01720,U015,U018,Renewal,Discovery,Pipeline,144000,2026-09-02,2027-03-10,2027-05-09,2,False,False,SDR Outbound,CMP023,Bigeye,7,,C006478,
+O0162,Andersson Eriksson AB - New Logo,A00184,U003,U006,New Logo,Closed Lost,Closed,125000,2026-04-08,2026-08-30,2026-08-30,0,True,False,Referral,,None,4,C001173,,Chose competitor
+O0163,Jarl Rydberg AB - New Logo,A01223,U002,U006,New Logo,Closed Lost,Closed,107000,2026-01-02,2026-07-31,2026-07-31,0,True,False,Free Trial,CMP009,Datadog,11,,C006440,No budget
+O0164,Andersson & Österberg AB - Expansion,A00798,U003,U006,Expansion,Closed Lost,Closed,171000,2026-06-26,2026-12-14,2026-10-07,0,True,False,Referral,,Bigeye,7,,,Chose competitor
+O0165,Royal van Breugel - Renewal,A01812,U002,U006,Renewal,Discovery,Pipeline,74000,2026-09-23,2027-03-29,2027-03-29,0,False,False,Paid Search,CMP022,None,2,C000328,C004948,
+O0166,Ehlert Dobes GmbH - New Logo,A00925,U014,U018,New Logo,Closed Lost,Closed,107000,2025-07-07,2025-10-08,2025-10-08,0,True,False,Partner,CMP020,Bigeye,11,C003321,C003321,Chose competitor
+O0167,Fredriksson & Bergström HB - New Logo,A00482,U014,U018,New Logo,Closed Won,Closed,82000,2026-03-13,2026-09-03,2026-09-03,0,True,True,Event,CMP022,Bigeye,10,C004693,,
+O0168,Krause AG - New Logo,A00885,U008,U012,New Logo,Closed Lost,Closed,149000,2025-06-26,2025-12-20,2025-12-20,0,True,False,Webinar,CMP042,Monte Carlo,7,C000675,C006100,No decision
+O0169,Hendriks - New Logo,A01282,U003,U006,New Logo,Closed Lost,Closed,84000,2026-03-22,2026-09-01,2026-10-07,2,True,False,Referral,,Monte Carlo,3,C000757,C005567,Built in-house
+O0170,Wunderink Groep - Renewal,A00243,U003,U006,Renewal,Technical Validation,Pipeline,66000,2026-08-27,2026-12-30,2026-12-30,0,False,False,Webinar,,Monte Carlo,4,,C003289,
+O0171,Arnold-Clarke - New Logo,A00216,U003,U006,New Logo,Closed Lost,Closed,68000,2026-06-28,2026-12-11,2026-10-07,1,True,False,Event,CMP002,Bigeye,6,C000551,,Chose competitor
+O0172,Textor - New Logo,A00772,U008,U012,New Logo,Closed Won,Closed,117000,2025-04-28,2025-10-26,2025-10-26,0,True,True,Webinar,CMP030,None,11,C000440,C006513,
+O0173,Fliegner Hövel OHG mbH - New Logo,A01479,U002,U006,New Logo,Closed Lost,Closed,41000,2025-12-13,2026-07-17,2026-08-16,1,True,False,SDR Outbound,CMP008,In-house,3,,,Built in-house
+O0174,Linke GmbH & Co. KGaA - New Logo,A00137,U015,U018,New Logo,Closed Lost,Closed,61000,2025-06-02,2025-09-08,2025-09-08,0,True,False,Partner,CMP030,Bigeye,11,C003960,C006397,No budget
+O0175,Guerrero Group - New Logo,A01468,U002,U006,New Logo,Discovery,Pipeline,75000,2026-06-02,2027-01-13,2027-01-13,0,False,False,SDR Outbound,CMP043,Datadog,7,C000913,C004837,
+O0176,Heymans Groep - New Logo,A01235,U002,U006,New Logo,Closed Won,Closed,92000,2026-03-07,2026-10-11,2026-10-07,0,True,True,SDR Outbound,CMP020,Monte Carlo,10,C000250,C001359,
+O0177,Carr Burton and Shah - New Logo,A00907,U003,U006,New Logo,Closed Lost,Closed,68000,2026-01-31,2026-08-16,2026-08-16,0,True,False,Content Download,CMP015,Bigeye,9,,,Chose competitor
+O0178,Cichorius - New Logo,A01999,U002,U006,New Logo,Closed Lost,Closed,111000,2025-07-12,2025-11-29,2025-11-29,0,True,False,Webinar,,Bigeye,7,C000030,C006590,Built in-house
+O0179,Kathagen & van Cuijck - New Logo,A01338,U003,U006,New Logo,POC,Best Case,87000,2026-07-29,2027-01-18,2027-02-17,1,False,False,Partner,CMP002,In-house,7,,C003037,
+O0180,Exact - New Logo,A01673,U002,U006,New Logo,Closed Lost,Closed,164000,2025-12-15,2026-05-24,2026-07-23,2,True,False,SDR Outbound,CMP012,Bigeye,12,,C005028,Chose competitor
+O0181,Fletcher Adams and Cunningham - New Logo,A00382,U003,U006,New Logo,Closed Lost,Closed,59000,2025-11-27,2026-04-05,2026-06-04,2,True,False,SDR Outbound,CMP044,Bigeye,8,,,No budget
+O0182,Driessen - New Logo,A00689,U002,U006,New Logo,Closed Lost,Closed,78000,2025-05-30,2025-09-04,2025-10-04,1,True,False,SDR Outbound,,In-house,4,,,No decision
+O0183,Aalberts Industries - New Logo,A00033,U002,U006,New Logo,Closed Lost,Closed,120000,2026-07-30,2027-02-05,2026-10-07,0,True,False,Free Trial,,Datadog,7,C001516,C005753,Built in-house
+O0184,Roberts LLC - New Logo,A01869,U002,U006,New Logo,Discovery,Pipeline,41000,2026-07-27,2027-01-01,2027-01-01,0,False,False,Referral,,Datadog,5,,C005482,
+O0185,Berglund & Bergman HB - New Logo,A00671,U009,U012,New Logo,Closed Won,Closed,66000,2025-11-04,2026-02-24,2026-02-24,0,True,True,Partner,CMP022,Bigeye,13,,,
+O0186,Josefsson & Lindvall HB - New Logo,A01899,U008,U012,New Logo,Closed Lost,Closed,61000,2025-10-21,2026-03-04,2026-03-04,0,True,False,Webinar,CMP036,In-house,3,C000752,C005439,No decision
+O0187,Ariens & Broeders - New Logo,A01245,U008,U012,New Logo,Closed Lost,Closed,73000,2025-08-07,2025-11-23,2025-11-23,0,True,False,Referral,CMP005,In-house,13,C001068,C005686,Chose competitor
+O0188,Bean Ltd - New Logo,A00328,U014,U018,New Logo,Closed Lost,Closed,63000,2025-11-13,2026-04-21,2026-04-21,0,True,False,Referral,CMP002,Bigeye,10,,C006785,No decision
+O0189,Roos HB - New Logo,A01164,U002,U006,New Logo,Closed Lost,Closed,47000,2025-07-09,2026-02-05,2026-02-05,0,True,False,Partner,CMP013,Bigeye,3,,C006429,Chose competitor
+O0190,Evans Marsh and Baldwin - New Logo,A01162,U014,U018,New Logo,Closed Lost,Closed,215000,2025-10-21,2026-01-31,2026-01-31,0,True,False,Paid Search,CMP008,None,7,,,Built in-house
+O0191,Yang Inc - Renewal,A00744,U008,U012,Renewal,Closed Won,Closed,145000,2025-09-25,2026-02-18,2026-04-19,2,True,True,Content Download,CMP012,Bigeye,13,C000326,,
+O0192,Achmea - New Logo,A00976,U002,U006,New Logo,Closed Lost,Closed,92000,2025-05-29,2025-10-02,2025-11-01,1,True,False,Content Download,CMP020,None,7,C001075,C005527,No budget
+O0193,Allen-Smith - Renewal,A01140,U009,U012,Renewal,Closed Lost,Closed,104000,2026-04-15,2026-07-16,2026-07-16,0,True,False,Referral,CMP021,In-house,14,C005893,C006466,No budget
+O0194,Plath Budig GmbH & Co. OHG - New Logo,A01491,U003,U006,New Logo,POC,Best Case,104000,2026-08-17,2026-12-16,2027-02-14,2,False,False,Free Trial,CMP023,Datadog,9,,C004171,
+O0195,Hunt-Hale - New Logo,A01151,U002,U006,New Logo,Closed Lost,Closed,38000,2026-02-05,2026-05-17,2026-08-15,3,True,False,Referral,CMP037,In-house,11,,,Built in-house
+O0196,Charles Marsh and Duarte - New Logo,A01407,U008,U012,New Logo,Discovery,Pipeline,43000,2026-09-17,2027-02-23,2027-02-23,0,False,False,Webinar,CMP015,In-house,5,,C006409,
+O0197,Orr-Klein - New Logo,A00854,U003,U006,New Logo,Closed Lost,Closed,118000,2026-05-23,2026-08-22,2026-08-22,0,True,False,Content Download,CMP004,Datadog,11,,,No budget
+O0198,Jähn - Expansion,A01545,U002,U006,Expansion,POC,Best Case,90000,2026-05-11,2026-09-09,2026-09-09,0,False,False,Webinar,CMP040,Bigeye,9,C004786,C004786,
+O0199,Anderson Wright and Lee - New Logo,A01445,U003,U006,New Logo,Closed Lost,Closed,94000,2025-10-12,2026-04-30,2026-07-29,3,True,False,Partner,,Monte Carlo,7,C001298,,Timing
+O0200,Hickman LLC - Renewal,A00018,U002,U006,Renewal,Closed Won,Closed,185000,2026-05-01,2026-08-26,2026-10-07,2,True,True,Paid Search,CMP045,None,13,C002120,,
+O0201,Fremie & de Haan - New Logo,A01336,U002,U006,New Logo,Closed Lost,Closed,167000,2026-02-15,2026-06-03,2026-06-03,0,True,False,Referral,CMP015,In-house,5,C000487,C006823,Chose competitor
+O0202,Beckmann - Renewal,A01615,U014,U018,Renewal,Closed Won,Closed,144000,2026-07-10,2027-01-03,2026-10-07,0,True,True,SDR Outbound,CMP001,None,7,C000805,,
+O0203,House and Sons - Expansion,A00039,U014,U018,Expansion,Closed Won,Closed,36000,2026-04-01,2026-10-13,2026-10-07,1,True,True,Free Trial,CMP019,Datadog,12,C001058,C005957,
+O0204,Lindqvist HB - New Logo,A01472,U015,U018,New Logo,Closed Lost,Closed,38000,2026-07-11,2026-10-15,2026-10-07,0,True,False,Referral,CMP013,Datadog,9,C002481,C003771,Built in-house
+O0205,Jönsson AB - New Logo,A01552,U008,U012,New Logo,Closed Lost,Closed,100000,2025-06-21,2026-01-19,2026-01-19,0,True,False,Webinar,CMP004,None,7,,C006848,Built in-house
+O0206,Keudel - Renewal,A01710,U003,U006,Renewal,Closed Lost,Closed,34000,2025-09-15,2026-03-15,2026-05-14,2,True,False,SDR Outbound,CMP019,In-house,15,C001939,C005491,No budget
+O0207,Nilsson HB - Renewal,A01955,U008,U012,Renewal,Closed Won,Closed,81000,2025-07-11,2025-11-27,2025-12-27,1,True,True,Event,CMP003,Monte Carlo,14,C001599,C006318,
+O0208,Fredriksson & Bergström HB - New Logo,A00482,U014,U018,New Logo,Closed Lost,Closed,52000,2025-07-15,2026-02-04,2026-04-05,2,True,False,Free Trial,CMP003,None,4,C004693,C004693,Timing
+O0209,Koninklijke Woudenberg - New Logo,A01697,U003,U006,New Logo,Closed Won,Closed,93000,2026-01-21,2026-05-18,2026-07-17,2,True,True,Partner,CMP032,None,14,C000349,C006321,
+O0210,Linde & Granath AB - Expansion,A00893,U002,U006,Expansion,Closed Lost,Closed,86000,2025-06-04,2025-11-29,2025-12-29,1,True,False,Webinar,CMP045,Datadog,10,C002314,C006177,No decision
+O0211,Riehl Kobelt GmbH & Co. KG - New Logo,A01258,U003,U006,New Logo,Closed Lost,Closed,131000,2026-05-17,2026-11-20,2026-10-07,0,True,False,Free Trial,CMP045,In-house,7,,C001021,Timing
+O0212,Sutton-Jones - New Logo,A01253,U003,U006,New Logo,Closed Lost,Closed,64000,2026-04-07,2026-10-18,2026-10-07,1,True,False,Paid Search,CMP045,Datadog,6,C000325,C006749,No decision
+O0213,Lloyd-Harris - Renewal,A01599,U014,U018,Renewal,Closed Lost,Closed,181000,2026-01-01,2026-04-14,2026-04-14,0,True,False,Content Download,,Bigeye,2,,,Built in-house
+O0214,Shepherd-Austin - Expansion,A01879,U015,U018,Expansion,Closed Lost,Closed,40000,2025-08-05,2026-02-04,2026-03-06,1,True,False,Partner,CMP041,In-house,3,,C005899,Timing
+O0215,Vervoort NV - New Logo,A00894,U015,U018,New Logo,Closed Won,Closed,109000,2025-11-15,2026-06-30,2026-06-30,0,True,True,SDR Outbound,CMP026,Bigeye,11,C003851,C005395,
+O0216,Verkade - Expansion,A00900,U002,U006,Expansion,Closed Lost,Closed,61000,2025-06-22,2026-01-01,2026-01-31,1,True,False,Partner,CMP028,Monte Carlo,8,,C006068,Timing
+O0217,Axelsson Issa HB - Expansion,A00250,U003,U006,Expansion,Closed Won,Closed,92000,2025-11-30,2026-04-30,2026-04-30,0,True,True,Paid Search,CMP008,Monte Carlo,8,C000649,C004986,
+O0218,Guerra Ltd - Expansion,A00642,U015,U018,Expansion,Closed Lost,Closed,82000,2025-08-24,2026-03-27,2026-03-27,0,True,False,Paid Search,CMP036,None,7,C001652,C006734,Chose competitor
+O0219,Tlustek e.V. - Renewal,A01440,U015,U018,Renewal,Closed Won,Closed,62000,2026-01-11,2026-07-01,2026-07-01,0,True,True,Webinar,CMP017,Bigeye,13,C000925,C003569,
+O0220,Reed Allen and May - Renewal,A01033,U015,U018,Renewal,Closed Lost,Closed,188000,2026-06-09,2026-11-16,2026-10-07,0,True,False,Webinar,CMP010,None,14,,C004538,Chose competitor
+O0221,Naser - New Logo,A01005,U015,U018,New Logo,Closed Won,Closed,67000,2025-11-14,2026-04-03,2026-05-03,1,True,True,Paid Search,CMP025,Monte Carlo,13,C004157,C006046,
+O0222,Otto GbR - New Logo,A01333,U009,U012,New Logo,Closed Lost,Closed,132000,2025-10-24,2026-06-20,2026-07-20,1,True,False,Webinar,CMP016,None,11,,C006087,No decision
+O0223,Gordon Wilson and Olson - New Logo,A01113,U015,U018,New Logo,Closed Won,Closed,186000,2025-09-02,2025-12-20,2025-12-20,0,True,True,SDR Outbound,CMP016,Monte Carlo,11,C001603,,
+O0224,Kranz KGaA - New Logo,A01153,U015,U018,New Logo,Closed Lost,Closed,45000,2026-02-14,2026-07-12,2026-07-12,0,True,False,Webinar,,In-house,9,C002891,,No budget
+O0225,Axelsson Andersson AB - New Logo,A00007,U002,U006,New Logo,Closed Lost,Closed,129000,2025-07-30,2026-02-04,2026-02-04,0,True,False,Referral,,None,10,C003511,C005887,Chose competitor
+O0226,Khalil AB - New Logo,A01648,U003,U006,New Logo,Closed Lost,Closed,157000,2026-01-16,2026-07-23,2026-07-23,0,True,False,Webinar,CMP008,In-house,5,,C006989,No decision
+O0227,Gierschner Stoll AG - New Logo,A01020,U002,U006,New Logo,Business Case,Best Case,100000,2026-08-10,2027-03-15,2027-03-15,0,False,False,Free Trial,CMP025,None,13,C002157,C006602,
+O0228,King Cunningham and Ward - Renewal,A00850,U009,U012,Renewal,Closed Lost,Closed,87000,2025-05-27,2025-09-20,2025-11-19,2,True,False,Event,CMP026,None,9,C000253,,Chose competitor
+O0229,Kloppert & Verbruggen - New Logo,A00448,U002,U006,New Logo,Technical Validation,Pipeline,80000,2026-08-24,2027-02-07,2027-02-07,0,False,False,Free Trial,CMP033,Monte Carlo,6,,C006613,
+O0230,Mulders NV - Expansion,A01302,U003,U006,Expansion,Closed Won,Closed,82000,2026-04-03,2026-08-16,2026-08-16,0,True,True,Paid Search,CMP026,Monte Carlo,13,C004119,C005216,
+O0231,Achmea - New Logo,A00976,U002,U006,New Logo,Closed Lost,Closed,91000,2026-01-01,2026-04-28,2026-04-28,0,True,False,SDR Outbound,CMP003,None,10,,C005527,No decision
+O0232,Smits NV - New Logo,A01396,U009,U012,New Logo,Closed Lost,Closed,175000,2025-09-21,2026-04-05,2026-04-05,0,True,False,SDR Outbound,CMP024,None,4,C000219,,Built in-house
+O0233,Heymans Groep - New Logo,A01235,U002,U006,New Logo,Closed Lost,Closed,85000,2025-12-26,2026-08-21,2026-08-21,0,True,False,Referral,CMP019,Bigeye,5,,C001359,No budget
+O0234,Turner Ltd - New Logo,A02008,U014,U018,New Logo,Closed Lost,Closed,176000,2026-02-18,2026-06-10,2026-07-10,1,True,False,Event,,In-house,11,C006920,C006920,Timing
+O0235,Tucker Howarth and Stewart - New Logo,A00832,U009,U012,New Logo,Discovery,Pipeline,47000,2026-09-06,2027-04-07,2027-04-07,0,False,False,Event,CMP045,In-house,6,C001734,,
+O0236,Leonard Group - New Logo,A01988,U002,U006,New Logo,Closed Won,Closed,132000,2026-03-31,2026-11-11,2026-10-07,0,True,True,Webinar,CMP023,Bigeye,15,C002115,C006289,
+O0237,Thompson-Hunter - New Logo,A01147,U002,U006,New Logo,Technical Validation,Pipeline,49000,2026-09-12,2027-04-30,2027-04-30,0,False,False,Partner,CMP016,Datadog,7,,,
+O0238,Vilhelmsson HB - New Logo,A01034,U008,U012,New Logo,Closed Lost,Closed,60000,2026-04-22,2026-11-27,2026-10-07,0,True,False,Paid Search,CMP008,Bigeye,11,,C006849,Timing
+O0239,Olsson Björk AB - New Logo,A01306,U008,U012,New Logo,Discovery,Pipeline,71000,2026-09-15,2027-03-24,2027-03-24,0,False,False,Content Download,,Bigeye,5,C000576,C002154,
+O0240,Kloppert & Verbruggen - Renewal,A00448,U002,U006,Renewal,Closed Lost,Closed,64000,2025-11-20,2026-05-06,2026-08-04,3,True,False,Partner,CMP020,None,6,,,No decision
+O0241,Lowe Group - New Logo,A01994,U015,U018,New Logo,Closed Lost,Closed,168000,2025-06-08,2025-11-20,2025-12-20,1,True,False,Event,CMP024,Bigeye,7,,,No decision
+O0242,Banks LLC - New Logo,A01858,U014,U018,New Logo,Closed Lost,Closed,172000,2025-08-03,2025-12-26,2026-01-25,1,True,False,Referral,,Monte Carlo,10,C000797,C006963,Built in-house
+O0243,Andersson HB - Expansion,A01203,U003,U006,Expansion,Closed Lost,Closed,61000,2026-05-08,2026-11-24,2026-10-07,0,True,False,Event,CMP027,Datadog,7,,,No budget
+O0244,Lachmann - New Logo,A01957,U002,U006,New Logo,POC,Best Case,95000,2026-06-10,2026-12-05,2026-12-05,0,False,False,Webinar,CMP040,Datadog,7,,,
+O0245,Royal Kuijpers - New Logo,A00723,U014,U018,New Logo,Closed Lost,Closed,57000,2025-06-17,2026-01-14,2026-01-14,0,True,False,Webinar,CMP021,None,11,C001139,C004474,Timing
+O0246,Larsson & Hultman HB - New Logo,A01090,U008,U012,New Logo,Closed Lost,Closed,159000,2026-04-10,2026-11-13,2026-10-07,1,True,False,Partner,,None,5,C000594,,Timing
+O0247,Reising - New Logo,A01155,U003,U006,New Logo,Discovery,Pipeline,124000,2026-09-28,2027-04-04,2027-05-04,1,False,False,Webinar,,None,4,,C003770,
+O0248,Miller Group - New Logo,A00607,U015,U018,New Logo,Business Case,Best Case,32000,2026-07-12,2027-01-31,2027-01-31,0,False,False,Free Trial,CMP013,In-house,10,C002818,C002818,
+O0249,van Gils & Fremie - New Logo,A00416,U003,U006,New Logo,Closed Won,Closed,75000,2025-09-02,2026-02-11,2026-02-11,0,True,True,Content Download,CMP023,Datadog,11,,C006305,
+O0250,Finke Köhler GmbH & Co. KG - New Logo,A01647,U003,U006,New Logo,Technical Validation,Pipeline,73000,2026-08-25,2027-01-25,2026-08-22,0,False,False,Free Trial,CMP002,Monte Carlo,7,C001383,C006479,
+O0251,House and Sons - New Logo,A00039,U014,U018,New Logo,Closed Won,Closed,75000,2025-07-26,2025-11-12,2026-01-11,2,True,True,Event,CMP017,Monte Carlo,13,,,
+O0252,Fransson & Persson HB - New Logo,A00140,U009,U012,New Logo,Closed Lost,Closed,50000,2026-07-10,2026-11-13,2026-10-07,1,True,False,Partner,CMP009,None,8,C000666,C003837,No decision
+O0253,Nilsson Lindgren AB - New Logo,A01136,U014,U018,New Logo,Closed Lost,Closed,124000,2026-05-21,2026-12-13,2026-10-07,0,True,False,Content Download,CMP022,Bigeye,2,C002579,C004019,No decision
+O0254,Jeppsson HB - New Logo,A01029,U015,U018,New Logo,Closed Lost,Closed,167000,2025-06-18,2025-11-26,2025-11-26,0,True,False,Event,CMP034,Monte Carlo,5,C000921,,No decision
+O0255,Berggren & Åberg HB - New Logo,A00498,U008,U012,New Logo,Closed Won,Closed,173000,2025-05-23,2025-10-20,2025-11-19,1,True,True,Paid Search,CMP015,In-house,12,,C005632,
+O0256,Henry LLC - New Logo,A01757,U015,U018,New Logo,Closed Lost,Closed,159000,2026-07-08,2027-02-25,2026-10-07,0,True,False,SDR Outbound,,None,7,C000343,C000878,Chose competitor
+O0257,Booking.com - Renewal,A00852,U003,U006,Renewal,Closed Lost,Closed,99000,2026-04-18,2026-12-01,2026-10-07,0,True,False,SDR Outbound,CMP018,Bigeye,10,C000597,C006959,Chose competitor
+O0258,Stichting Mens - New Logo,A01925,U002,U006,New Logo,Closed Lost,Closed,156000,2026-07-17,2026-11-27,2026-10-07,0,True,False,Paid Search,CMP031,None,8,,C003671,Built in-house
+O0259,Williams Hart and Harper - New Logo,A01816,U002,U006,New Logo,Closed Won,Closed,63000,2025-08-20,2025-12-02,2026-01-01,1,True,True,Free Trial,CMP020,In-house,11,C001729,C003083,
+O0260,Lundin & Gustavsson HB - New Logo,A01211,U002,U006,New Logo,Closed Lost,Closed,66000,2025-12-26,2026-05-13,2026-05-13,0,True,False,Webinar,CMP035,Datadog,11,C000371,,Timing
+O0261,Engie Services - New Logo,A00844,U003,U006,New Logo,Closed Won,Closed,171000,2025-11-27,2026-03-06,2026-03-06,0,True,True,SDR Outbound,CMP014,Bigeye,8,C001644,C005492,
+O0262,Colon Wagner and Evans - New Logo,A01771,U015,U018,New Logo,Closed Lost,Closed,144000,2026-07-13,2027-02-01,2026-10-07,2,True,False,Partner,CMP018,None,6,C002436,C004539,No decision
+O0263,Andersson Wahlgren HB - New Logo,A01668,U003,U006,New Logo,Technical Validation,Pipeline,126000,2026-09-20,2027-02-16,2027-02-16,0,False,False,Referral,,In-house,8,,C006914,
+O0264,Dippel GbR - Expansion,A01591,U014,U018,Expansion,Discovery,Pipeline,95000,2026-09-16,2027-03-21,2027-03-21,0,False,False,Webinar,CMP012,In-house,3,C000114,C005489,
+O0265,Hardy PLC - New Logo,A01579,U008,U012,New Logo,Technical Validation,Pipeline,62000,2026-07-28,2027-03-04,2027-03-04,0,False,False,SDR Outbound,CMP041,Bigeye,7,C004766,C006255,
+O0266,Keudel - Expansion,A01710,U003,U006,Expansion,Closed Lost,Closed,47000,2025-05-25,2025-11-30,2025-11-30,0,True,False,Event,CMP023,Datadog,9,C001939,C005491,Built in-house
+O0267,Fuentes Inc - Expansion,A01696,U015,U018,Expansion,Closed Lost,Closed,300000,2025-07-03,2025-11-18,2025-12-18,1,True,False,Free Trial,,Datadog,12,,C005504,Built in-house
+O0268,Carlsson & Söderberg AB - New Logo,A00433,U002,U006,New Logo,Technical Validation,Pipeline,83000,2026-08-30,2026-12-21,2026-12-21,0,False,False,Free Trial,CMP005,Bigeye,4,C005939,C006460,
+O0269,Hoelen Groep - Renewal,A00428,U009,U012,Renewal,Closed Lost,Closed,132000,2025-06-03,2025-10-30,2025-10-30,0,True,False,Free Trial,CMP021,In-house,6,C000167,,Timing
+O0270,Hutchinson Carter and Smith - New Logo,A00756,U003,U006,New Logo,Closed Lost,Closed,316000,2025-05-19,2025-12-02,2026-01-01,1,True,False,SDR Outbound,,Datadog,8,C001530,C005679,Built in-house
+O0271,Ibrahim Nilsson AB - New Logo,A00651,U002,U006,New Logo,Discovery,Pipeline,331000,2026-06-07,2027-01-16,2027-02-15,1,False,False,Event,CMP029,In-house,7,C000091,,
+O0272,Pettersson & Sjöstedt AB - New Logo,A00355,U014,U018,New Logo,POC,Best Case,79000,2026-06-22,2027-01-03,2027-02-02,1,False,False,Free Trial,CMP005,In-house,8,C000605,C005740,
+O0273,Jenkins-Jones - New Logo,A01105,U015,U018,New Logo,Closed Won,Closed,118000,2025-12-06,2026-05-09,2026-05-09,0,True,True,Referral,,In-house,13,,C007009,
+O0274,Johnson Carpenter and Morris - New Logo,A01275,U014,U018,New Logo,Closed Lost,Closed,135000,2026-04-10,2026-09-17,2026-09-17,0,True,False,Free Trial,CMP023,Bigeye,8,,,Built in-house
+O0275,Hall Shepherd and Cortez - New Logo,A01098,U002,U006,New Logo,Closed Lost,Closed,75000,2026-04-26,2026-12-08,2026-10-07,1,True,False,Content Download,CMP041,Bigeye,3,C000385,C006117,Built in-house
+O0276,Royal van Suinvorde - New Logo,A01254,U014,U018,New Logo,Closed Lost,Closed,84000,2026-02-19,2026-05-26,2026-05-26,0,True,False,Referral,CMP045,None,4,C004425,,Chose competitor
+O0277,Bergvall Gustafsson AB - Expansion,A00432,U003,U006,Expansion,Closed Won,Closed,60000,2025-09-12,2026-02-26,2026-04-27,2,True,True,Free Trial,CMP013,In-house,10,C000506,,
+O0278,Johansson Jakobsson AB - Expansion,A00727,U009,U012,Expansion,Closed Lost,Closed,181000,2025-08-07,2025-12-29,2026-02-27,2,True,False,Paid Search,CMP021,Datadog,8,,,No decision
+O0279,Junk Steinberg GmbH & Co. OHG - New Logo,A01189,U003,U006,New Logo,Closed Won,Closed,121000,2026-04-08,2026-11-13,2026-10-07,2,True,True,SDR Outbound,CMP011,In-house,11,,C003588,
+O0280,Woods and Sons - New Logo,A00704,U014,U018,New Logo,Closed Won,Closed,66000,2026-01-22,2026-08-04,2026-08-04,0,True,True,SDR Outbound,CMP017,None,10,C001095,C006877,
+O0281,SKF - New Logo,A01541,U002,U006,New Logo,Closed Won,Closed,86000,2025-11-14,2026-03-26,2026-03-26,0,True,True,Webinar,,Monte Carlo,12,,C006659,
+O0282,Woods Calhoun and Schmidt - New Logo,A00046,U015,U018,New Logo,Closed Lost,Closed,90000,2025-12-07,2026-03-24,2026-04-23,1,True,False,Referral,CMP002,Bigeye,9,,,Chose competitor
+O0283,Elberts & Peters - New Logo,A00133,U003,U006,New Logo,POC,Best Case,93000,2026-08-06,2027-02-25,2027-02-25,0,False,False,SDR Outbound,CMP036,Bigeye,8,C000288,C005055,
+O0284,Verkade - Renewal,A00900,U002,U006,Renewal,Closed Lost,Closed,49000,2025-05-08,2025-11-03,2025-11-03,0,True,False,Referral,CMP004,Bigeye,12,C002812,,Built in-house
+O0285,Harrison Roberts and Ali - New Logo,A01154,U002,U006,New Logo,POC,Best Case,45000,2026-08-31,2027-02-05,2027-04-06,2,False,False,Free Trial,,Bigeye,9,C001318,C003470,
+O0286,Royal Lelijveld - New Logo,A01716,U008,U012,New Logo,Closed Lost,Closed,77000,2025-06-27,2025-12-04,2026-02-02,2,True,False,Referral,CMP039,Bigeye,14,,,Chose competitor
+O0287,Lindau Dussen van e.G. - New Logo,A01297,U009,U012,New Logo,Closed Lost,Closed,165000,2026-07-20,2027-01-22,2026-10-07,0,True,False,Referral,,None,8,,C006584,No decision
+O0288,Jansdr & Meeusen - Renewal,A00678,U003,U006,Renewal,Closed Won,Closed,385000,2025-08-01,2026-02-25,2026-02-25,0,True,True,Partner,CMP004,None,8,,C004496,
+O0289,Powell Martin and Norris - New Logo,A01319,U015,U018,New Logo,Closed Lost,Closed,74000,2025-05-21,2025-10-13,2025-10-13,0,True,False,Webinar,CMP036,Monte Carlo,3,C000760,,Built in-house
+O0290,Melander HB - Expansion,A00305,U008,U012,Expansion,Closed Lost,Closed,153000,2025-12-03,2026-05-18,2026-07-17,2,True,False,Referral,CMP023,Bigeye,8,,,Timing
+O0291,Pauwels BV - New Logo,A02023,U014,U018,New Logo,Closed Lost,Closed,136000,2026-07-03,2027-02-10,2026-10-07,2,True,False,Paid Search,CMP031,None,6,,,Built in-house
+O0292,Hughes-Howard - New Logo,A00760,U002,U006,New Logo,Closed Won,Closed,188000,2026-04-26,2026-08-24,2026-08-24,0,True,True,Partner,CMP007,Monte Carlo,12,C004140,,
+O0293,Larsson & Petersson AB - New Logo,A01387,U003,U006,New Logo,Closed Lost,Closed,108000,2025-11-30,2026-03-13,2026-03-13,0,True,False,Partner,CMP028,In-house,5,C001082,,No budget
+O0294,Mcgee Wall and Leach - Renewal,A00239,U015,U018,Renewal,Closed Lost,Closed,31000,2025-10-10,2026-03-03,2026-05-02,2,True,False,Paid Search,,None,11,,C004258,Timing
+O0295,Menzis - Expansion,A00116,U008,U012,Expansion,Closed Lost,Closed,172000,2025-08-20,2025-11-21,2025-11-21,0,True,False,Webinar,,Monte Carlo,7,C001001,,Chose competitor
+O0296,Rask Jansson HB - New Logo,A01281,U002,U006,New Logo,Closed Won,Closed,160000,2025-04-07,2025-10-21,2025-10-21,0,True,True,Event,CMP021,Bigeye,11,C000097,,
+O0297,Stichting Adryaens - New Logo,A01650,U015,U018,New Logo,Closed Lost,Closed,182000,2025-05-03,2025-12-03,2026-03-03,3,True,False,SDR Outbound,CMP043,Datadog,3,,,Built in-house
+O0298,Williams Inc - New Logo,A00256,U003,U006,New Logo,Closed Lost,Closed,74000,2025-04-15,2025-07-28,2025-07-28,0,True,False,Partner,CMP043,Datadog,11,,C005163,Chose competitor
+O0299,Brown Rush and Mcintosh - New Logo,A01316,U015,U018,New Logo,Closed Lost,Closed,75000,2025-12-20,2026-05-03,2026-06-02,1,True,False,Webinar,CMP022,None,3,,,Chose competitor
+O0300,Koninklijke Woudenberg - New Logo,A01697,U003,U006,New Logo,Closed Lost,Closed,71000,2025-04-17,2025-11-18,2025-11-18,0,True,False,Content Download,CMP020,In-house,6,,,No budget
+O0301,Sims-Watson - New Logo,A02034,U003,U006,New Logo,Technical Validation,Pipeline,170000,2026-09-08,2027-04-28,2027-04-28,0,False,False,Free Trial,CMP031,None,7,C006980,C006980,
+O0302,KLM - New Logo,A01137,U009,U012,New Logo,Closed Lost,Closed,145000,2025-10-20,2026-05-15,2026-07-14,2,True,False,Event,CMP044,Monte Carlo,9,C000494,,No budget
+O0303,Achmea - New Logo,A01745,U014,U018,New Logo,Closed Lost,Closed,94000,2025-10-21,2026-04-29,2026-04-29,0,True,False,SDR Outbound,CMP027,Monte Carlo,9,C002783,C005295,Built in-house
+O0304,Persson Dahl HB - Expansion,A00388,U003,U006,Expansion,Closed Lost,Closed,341000,2025-07-09,2025-12-19,2026-03-19,3,True,False,Paid Search,CMP001,Bigeye,11,C002901,C005824,No decision
+O0305,Davis-Lewis - New Logo,A00265,U009,U012,New Logo,Closed Lost,Closed,170000,2025-04-04,2025-10-13,2025-11-12,1,True,False,SDR Outbound,CMP009,Bigeye,5,,,No budget
+O0306,Bloch - New Logo,A01016,U015,U018,New Logo,POC,Best Case,171000,2026-08-14,2027-01-18,2027-01-18,0,False,False,Referral,,None,8,C000957,C004851,
+O0307,DKG Groep - New Logo,A00211,U002,U006,New Logo,Closed Lost,Closed,157000,2026-04-24,2026-11-13,2026-10-07,0,True,False,Content Download,CMP020,Bigeye,14,,C006495,Timing
+O0308,Mays Ltd - Expansion,A01525,U015,U018,Expansion,Closed Lost,Closed,88000,2026-01-25,2026-05-04,2026-05-04,0,True,False,Partner,CMP025,Monte Carlo,8,C002530,,Timing
+O0309,Kuhl Liebelt Stiftung & Co. KGaA - New Logo,A00286,U014,U018,New Logo,Closed Lost,Closed,68000,2025-10-21,2026-01-25,2026-01-25,0,True,False,SDR Outbound,,Bigeye,9,C001211,C007000,Chose competitor
+O0310,Matthews Ltd - New Logo,A00593,U003,U006,New Logo,Closed Lost,Closed,117000,2025-06-25,2025-11-19,2025-11-19,0,True,False,Content Download,CMP020,Bigeye,5,C000313,C006372,Built in-house
+O0311,Persson Hansson HB - Renewal,A00619,U015,U018,Renewal,Closed Won,Closed,141000,2025-11-20,2026-02-21,2026-02-21,0,True,True,Partner,CMP009,In-house,13,,,
+O0312,Cichorius - New Logo,A01999,U002,U006,New Logo,Closed Lost,Closed,179000,2025-12-07,2026-07-25,2026-07-25,0,True,False,Content Download,CMP010,Monte Carlo,10,C000030,C006590,No decision
+O0313,House and Sons - New Logo,A00039,U014,U018,New Logo,Closed Lost,Closed,50000,2026-02-12,2026-06-08,2026-07-08,1,True,False,Content Download,CMP011,None,6,C001058,,Chose competitor
+O0314,Ali AB - New Logo,A01823,U003,U006,New Logo,Technical Validation,Pipeline,182000,2026-07-18,2026-12-27,2027-01-26,1,False,False,Free Trial,CMP044,Bigeye,9,C001036,C005481,
+O0315,Sundberg HB - New Logo,A01660,U015,U018,New Logo,Closed Lost,Closed,80000,2026-03-10,2026-09-19,2026-10-07,1,True,False,Event,CMP024,Datadog,6,C001110,C006750,Timing
+O0316,Kraushaar GmbH & Co. KGaA - Expansion,A01353,U003,U006,Expansion,Discovery,Pipeline,84000,2026-08-02,2026-11-03,2026-11-03,0,False,False,SDR Outbound,,None,6,,C005144,
+O0317,Kramer Stiftung & Co. KG - New Logo,A00604,U015,U018,New Logo,Technical Validation,Pipeline,164000,2026-09-12,2027-02-16,2027-02-16,0,False,False,Free Trial,CMP037,None,9,,,
+O0318,Eriksson & Franzén HB - New Logo,A02021,U014,U018,New Logo,Closed Lost,Closed,71000,2025-06-11,2025-10-15,2025-11-14,1,True,False,Partner,CMP027,Monte Carlo,11,C006949,C006949,No decision
+O0319,Ooms & Ellis - Expansion,A01095,U014,U018,Expansion,Closed Lost,Closed,177000,2025-08-10,2025-11-29,2025-11-29,0,True,False,Referral,CMP039,Bigeye,8,C001286,,Timing
+O0320,Lopez-Johnson - Renewal,A01635,U015,U018,Renewal,Closed Won,Closed,181000,2025-12-28,2026-05-24,2026-05-24,0,True,True,Referral,,Monte Carlo,10,C000324,C005937,
+O0321,Smith-Sandoval - New Logo,A00758,U003,U006,New Logo,Closed Won,Closed,157000,2026-02-09,2026-09-16,2026-10-07,2,True,True,SDR Outbound,CMP028,Datadog,8,C000406,,
+O0322,Powell Robinson and Thomas - Expansion,A01363,U003,U006,Expansion,Closed Won,Closed,79000,2025-08-27,2026-04-04,2026-05-04,1,True,True,Content Download,CMP025,Datadog,12,C000688,C005462,
+O0323,Leonard Roberts and Hussain - New Logo,A01014,U008,U012,New Logo,Closed Won,Closed,77000,2025-10-02,2026-01-15,2026-01-15,0,True,True,Referral,,Bigeye,15,,C004268,
+O0324,Gilbert-Crosby - New Logo,A00260,U002,U006,New Logo,Closed Lost,Closed,133000,2025-08-26,2026-01-17,2026-01-17,0,True,False,Content Download,CMP044,None,13,C000139,C006638,No decision
+O0325,Wulff AG - New Logo,A01590,U015,U018,New Logo,Discovery,Pipeline,137000,2026-09-25,2027-01-13,2027-02-12,1,False,False,Webinar,CMP019,None,6,,C005914,
+O0326,Döring - New Logo,A00985,U003,U006,New Logo,Business Case,Best Case,117000,2026-06-29,2026-12-02,2027-01-01,1,False,False,Webinar,,In-house,13,,C006954,
+O0327,Metz Neuschäfer AG - New Logo,A01453,U003,U006,New Logo,Closed Lost,Closed,186000,2026-06-01,2026-09-11,2026-10-07,1,True,False,Webinar,CMP044,None,5,C001451,,No budget
+O0328,Stolze KG - New Logo,A01565,U009,U012,New Logo,POC,Best Case,191000,2026-08-07,2027-02-17,2027-03-19,1,False,False,Webinar,CMP018,Datadog,11,C000214,,
+O0329,Stichting Brizee - New Logo,A01843,U002,U006,New Logo,Closed Lost,Closed,168000,2025-08-11,2026-01-17,2026-03-18,2,True,False,Webinar,CMP022,Datadog,2,,C002750,No budget
+O0330,Royal Arens - New Logo,A00453,U002,U006,New Logo,Closed Lost,Closed,44000,2025-12-14,2026-03-29,2026-03-29,0,True,False,SDR Outbound,CMP023,Monte Carlo,11,C000003,C000724,No budget
+O0331,Phillips Ltd - New Logo,A00555,U009,U012,New Logo,Closed Lost,Closed,159000,2026-04-04,2026-11-19,2026-10-07,0,True,False,Webinar,CMP034,Bigeye,8,C001863,,Chose competitor
+O0332,Eriksson & Malm AB - New Logo,A01462,U002,U006,New Logo,Closed Lost,Closed,30000,2026-06-28,2027-01-26,2026-10-07,1,True,False,Paid Search,CMP026,None,4,C003318,,No budget
+O0333,Hawkins LLC - Expansion,A01746,U008,U012,Expansion,Closed Lost,Closed,77000,2025-11-27,2026-05-08,2026-06-07,1,True,False,Webinar,,Monte Carlo,9,,C006247,No budget
+O0334,Royal Jeggij - New Logo,A01054,U014,U018,New Logo,Closed Won,Closed,97000,2025-05-07,2025-08-11,2025-09-10,1,True,True,SDR Outbound,CMP037,None,11,C000549,C003051,
+O0335,Holthuis BV - Expansion,A00407,U008,U012,Expansion,Technical Validation,Pipeline,72000,2026-06-30,2026-12-26,2026-12-26,0,False,False,Event,CMP031,None,4,,,
+O0336,Pearce PLC - Expansion,A00679,U009,U012,Expansion,Closed Lost,Closed,188000,2026-03-20,2026-09-20,2026-09-20,0,True,False,Free Trial,CMP018,In-house,3,,C003938,No budget
+O0337,Doyle Inc - Expansion,A00354,U002,U006,Expansion,Closed Lost,Closed,109000,2026-01-17,2026-05-27,2026-07-26,2,True,False,Content Download,CMP039,Bigeye,13,C002047,,Timing
+O0338,Kolster & Louws - Renewal,A01354,U002,U006,Renewal,Technical Validation,Pipeline,166000,2026-07-26,2027-02-06,2027-03-08,1,False,False,Event,CMP015,Bigeye,6,,C003190,
+O0339,Beyer GmbH & Co. KG - New Logo,A01991,U015,U018,New Logo,Closed Won,Closed,124000,2025-08-23,2026-03-23,2026-05-22,2,True,True,Event,CMP002,Bigeye,8,C000845,C000845,
+O0340,Geldens & van Metz - New Logo,A01448,U002,U006,New Logo,Technical Validation,Pipeline,75000,2026-07-31,2026-12-09,2027-01-08,1,False,False,Free Trial,CMP017,Datadog,7,,C002779,
+O0341,de Gruijter & Frankhuizen - Expansion,A00602,U014,U018,Expansion,Closed Lost,Closed,51000,2025-05-01,2025-10-12,2025-11-11,1,True,False,Free Trial,CMP002,Monte Carlo,5,C001264,C002574,No decision
+O0342,Johansson & Svensson HB - New Logo,A00330,U009,U012,New Logo,Closed Won,Closed,124000,2025-11-07,2026-04-24,2026-05-24,1,True,True,Webinar,CMP021,None,6,,,
+O0343,Andersson Wahlgren HB - New Logo,A01668,U003,U006,New Logo,Closed Lost,Closed,111000,2026-03-26,2026-11-08,2026-10-07,2,True,False,Referral,CMP040,None,4,C000226,C006914,Chose competitor
+O0344,Mcdonald-Miller - Renewal,A01883,U008,U012,Renewal,Closed Lost,Closed,30000,2025-06-28,2025-12-15,2026-01-14,1,True,False,Free Trial,CMP008,Datadog,2,C000180,C000180,No decision
+O0345,Owen McLean and White - New Logo,A00411,U009,U012,New Logo,Discovery,Pipeline,173000,2026-09-01,2027-04-02,2027-05-02,1,False,False,Event,CMP004,None,3,C000412,C006515,
+O0346,Kriens NV - New Logo,A01377,U015,U018,New Logo,Closed Lost,Closed,69000,2025-07-20,2025-11-16,2025-11-16,0,True,False,Content Download,CMP030,None,6,C001024,C004951,Chose competitor
+O0347,Freeman Todd and Ellis - Renewal,A01004,U009,U012,Renewal,Closed Lost,Closed,46000,2026-04-30,2026-11-13,2026-10-07,0,True,False,SDR Outbound,CMP015,Bigeye,2,C000596,C006286,Chose competitor
+O0348,Ruijs BV - New Logo,A00298,U014,U018,New Logo,Closed Lost,Closed,153000,2025-11-01,2026-03-25,2026-04-24,1,True,False,Webinar,CMP030,Monte Carlo,11,,,Built in-house
+O0349,Blackwell LLC - Expansion,A00391,U003,U006,Expansion,Closed Lost,Closed,50000,2025-08-14,2026-03-29,2026-03-29,0,True,False,Referral,CMP026,In-house,12,,,No decision
+O0350,Asplund & Björkman AB - New Logo,A00659,U008,U012,New Logo,Technical Validation,Pipeline,85000,2026-08-30,2027-04-05,2027-04-05,0,False,False,SDR Outbound,CMP026,In-house,5,C001421,C006441,
+O0351,Demmendaal NV - New Logo,A00274,U009,U012,New Logo,Closed Lost,Closed,131000,2026-06-12,2027-02-07,2026-10-07,0,True,False,Referral,CMP023,Monte Carlo,11,C001448,C005258,Built in-house
+O0352,Chavez Carney and Hammond - New Logo,A01529,U002,U006,New Logo,Closed Lost,Closed,175000,2025-05-28,2025-11-24,2025-11-24,0,True,False,SDR Outbound,CMP001,Datadog,2,,C005924,Chose competitor
+O0353,Gardiner-Higgins - New Logo,A00674,U002,U006,New Logo,Closed Lost,Closed,102000,2026-02-04,2026-06-21,2026-06-21,0,True,False,Event,,In-house,6,,C006910,No decision
+O0354,Nilsson AB - New Logo,A00947,U014,U018,New Logo,Closed Lost,Closed,81000,2026-05-05,2026-09-19,2026-09-19,0,True,False,Free Trial,CMP039,Datadog,9,,,Built in-house
+O0355,van den Velden & Potters - New Logo,A00790,U003,U006,New Logo,Closed Won,Closed,77000,2025-09-01,2026-03-19,2026-05-18,2,True,True,Event,CMP040,Bigeye,12,,,
+O0356,Zobel GbR - New Logo,A01639,U014,U018,New Logo,Technical Validation,Pipeline,330000,2026-09-04,2027-01-19,2027-01-19,0,False,False,Content Download,,Bigeye,6,C002618,C006843,
+O0357,Karlsson Gustavsson AB - New Logo,A00450,U003,U006,New Logo,Closed Lost,Closed,40000,2026-03-30,2026-09-21,2026-09-21,0,True,False,Free Trial,CMP010,None,8,C000080,,Chose competitor
+O0358,Sundberg AB - New Logo,A00121,U009,U012,New Logo,Closed Lost,Closed,65000,2025-07-10,2025-10-16,2025-10-16,0,True,False,Referral,CMP002,Datadog,11,C002451,,Built in-house
+O0359,Alm & Eriksson HB - New Logo,A01330,U014,U018,New Logo,Discovery,Pipeline,96000,2026-09-04,2027-01-18,2027-02-17,1,False,False,Partner,,Datadog,6,,C003525,
+O0360,Miranda Reese and Johnson - New Logo,A01433,U003,U006,New Logo,Closed Won,Closed,95000,2025-11-12,2026-05-12,2026-05-12,0,True,True,Event,CMP018,Bigeye,9,,C005530,
+O0361,Jackson Group - Renewal,A01510,U003,U006,Renewal,Closed Lost,Closed,165000,2026-04-05,2026-10-31,2026-10-07,2,True,False,SDR Outbound,CMP016,In-house,2,,C004360,Timing
+O0362,Kvist & Norén AB - New Logo,A00045,U003,U006,New Logo,Closed Lost,Closed,55000,2025-10-26,2026-02-17,2026-03-19,1,True,False,Referral,CMP031,Bigeye,7,C000276,,No budget
+O0363,Webb LLC - New Logo,A00326,U002,U006,New Logo,Closed Lost,Closed,48000,2025-08-04,2026-02-01,2026-03-03,1,True,False,SDR Outbound,,Bigeye,10,C004633,C004633,Timing
+O0364,Peters Morris and Brown - New Logo,A02014,U015,U018,New Logo,Discovery,Pipeline,102000,2026-07-12,2026-10-15,2026-10-15,0,False,False,Paid Search,CMP029,Bigeye,3,,C006938,
+O0365,Mazars - Expansion,A00329,U002,U006,Expansion,Closed Lost,Closed,108000,2025-05-14,2025-08-12,2025-09-11,1,True,False,Partner,CMP043,Monte Carlo,11,,C007021,No budget
+O0366,Royal Rubben - New Logo,A00398,U009,U012,New Logo,Closed Lost,Closed,69000,2025-11-21,2026-06-28,2026-06-28,0,True,False,Content Download,CMP026,Datadog,7,C001788,,Timing
+O0367,Mohaupt Hesse GbR - New Logo,A00848,U003,U006,New Logo,Closed Lost,Closed,347000,2025-10-28,2026-05-06,2026-08-04,3,True,False,Partner,CMP002,Monte Carlo,4,C002164,C006703,No decision
+O0368,Naser - Expansion,A01005,U015,U018,Expansion,Technical Validation,Pipeline,134000,2026-09-05,2026-12-12,2027-01-11,1,False,False,Partner,,Monte Carlo,5,C004157,C006046,
+O0369,Seifert AG - New Logo,A01610,U015,U018,New Logo,POC,Best Case,70000,2026-08-19,2026-11-26,2026-11-26,0,False,False,Content Download,CMP042,Datadog,9,C001009,C006688,
+O0370,Kelly Ltd - New Logo,A01902,U014,U018,New Logo,Closed Won,Closed,66000,2025-04-20,2025-10-09,2025-10-09,0,True,True,Webinar,,Datadog,10,C000884,,
+O0371,van de Ven & Scholten - Renewal,A01166,U003,U006,Renewal,Closed Won,Closed,148000,2025-08-21,2025-11-21,2025-11-21,0,True,True,Event,CMP026,None,12,,C006010,
+O0372,Hughes James and Hewitt - New Logo,A01924,U002,U006,New Logo,Technical Validation,Pipeline,94000,2026-08-14,2027-03-13,2027-04-12,1,False,False,Partner,,Monte Carlo,5,,C005532,
+O0373,Simonis & Vallenduuk - New Logo,A00492,U014,U018,New Logo,Business Case,Best Case,91000,2026-07-11,2026-11-07,2026-11-07,0,False,False,SDR Outbound,CMP027,Bigeye,10,C000154,C002922,
+O0374,Nord HB - Expansion,A01293,U003,U006,Expansion,Closed Won,Closed,125000,2025-08-13,2025-12-21,2026-01-20,1,True,True,SDR Outbound,CMP010,Monte Carlo,13,,,
+O0375,Axelsson Issa HB - Expansion,A00250,U003,U006,Expansion,Closed Won,Closed,61000,2025-10-08,2026-02-16,2026-02-16,0,True,True,Referral,CMP021,Bigeye,14,,,
+O0376,Smith Group - New Logo,A00420,U015,U018,New Logo,Closed Lost,Closed,71000,2025-08-27,2025-12-23,2026-01-22,1,True,False,SDR Outbound,,Datadog,7,,C007032,Chose competitor
+O0377,van de Wiel & van der Heijden - Expansion,A01982,U008,U012,Expansion,Closed Lost,Closed,51000,2026-04-16,2026-12-12,2026-10-07,2,True,False,Referral,CMP002,In-house,12,C003356,C005091,No decision
+O0378,Murray Inc - New Logo,A01237,U009,U012,New Logo,Closed Lost,Closed,107000,2025-09-26,2026-02-02,2026-03-04,1,True,False,Referral,CMP023,None,10,,C006143,Timing
+O0379,Holt Noack Stiftung & Co. KG - New Logo,A00871,U009,U012,New Logo,Closed Won,Closed,94000,2025-04-16,2025-11-19,2025-12-19,1,True,True,Free Trial,CMP026,Monte Carlo,8,,C000052,
+O0380,Dippel Finke Stiftung & Co. KG - Expansion,A01972,U002,U006,Expansion,Discovery,Pipeline,59000,2026-09-23,2027-02-28,2027-02-28,0,False,False,SDR Outbound,CMP027,Monte Carlo,6,C000464,C006854,
+O0381,Cichorius - Renewal,A01999,U002,U006,Renewal,Closed Won,Closed,75000,2025-05-04,2025-10-22,2025-10-22,0,True,True,Content Download,,Datadog,10,C000030,,
+O0382,Furda & van Geenen - New Logo,A01212,U008,U012,New Logo,Closed Lost,Closed,94000,2025-04-30,2025-12-07,2026-01-06,1,True,False,Referral,CMP024,Monte Carlo,14,,C005393,Timing
+O0383,Hopkins-Dickinson - New Logo,A01629,U009,U012,New Logo,Closed Lost,Closed,99000,2025-04-22,2025-07-21,2025-07-21,0,True,False,Free Trial,CMP001,Monte Carlo,9,C005559,C005559,Chose competitor
+O0384,Carroll Ramirez and Rodriguez - New Logo,A01597,U002,U006,New Logo,Closed Lost,Closed,160000,2025-09-29,2026-01-05,2026-01-05,0,True,False,Partner,CMP015,None,7,C001455,C005410,No decision
+O0385,Hornig GmbH & Co. KG - New Logo,A00012,U015,U018,New Logo,Closed Won,Closed,100000,2025-06-12,2025-12-03,2025-12-03,0,True,True,Paid Search,CMP037,Bigeye,11,,,
+O0386,Moreno Bennett and Chavez - New Logo,A00302,U014,U018,New Logo,Closed Won,Closed,79000,2026-03-31,2026-07-17,2026-07-17,0,True,True,Paid Search,CMP033,In-house,13,C000064,C004550,
+O0387,Engström & Andersson HB - Renewal,A01301,U008,U012,Renewal,Closed Lost,Closed,82000,2025-11-26,2026-07-02,2026-07-02,0,True,False,Paid Search,CMP034,In-house,3,,,Built in-house
+O0388,Emilsson & Olofsson HB - New Logo,A01283,U015,U018,New Logo,Closed Lost,Closed,149000,2025-09-09,2026-02-21,2026-04-22,2,True,False,Free Trial,CMP040,None,6,C002711,,Chose competitor
+O0389,Rohleder Dörr AG & Co. KGaA - Expansion,A01072,U008,U012,Expansion,Closed Lost,Closed,132000,2025-06-13,2025-09-28,2025-09-28,0,True,False,SDR Outbound,CMP006,None,5,,C006607,No decision
+O0390,Hammar Bengtsson HB - New Logo,A01763,U003,U006,New Logo,Closed Lost,Closed,164000,2026-07-19,2027-02-26,2026-10-07,1,True,False,Event,CMP010,Monte Carlo,9,,C006405,Built in-house
+O0391,Fisher-Garcia - New Logo,A00937,U008,U012,New Logo,Closed Won,Closed,52000,2025-12-21,2026-07-22,2026-07-22,0,True,True,Paid Search,CMP010,None,12,,C004114,
+O0392,Heß Sölzer Stiftung & Co. KG - Expansion,A00895,U003,U006,Expansion,Closed Lost,Closed,186000,2025-04-15,2025-10-12,2025-11-11,1,True,False,Paid Search,CMP021,Bigeye,8,C005572,C005572,No decision
+O0393,Larsson AB - New Logo,A00200,U008,U012,New Logo,Closed Won,Closed,93000,2025-07-20,2025-11-14,2025-11-14,0,True,True,SDR Outbound,,Datadog,13,C002007,C006476,
+O0394,Hjalmarsson & Jafari AB - Expansion,A00264,U015,U018,Expansion,Closed Lost,Closed,34000,2026-01-12,2026-06-11,2026-08-10,2,True,False,Partner,CMP007,Bigeye,3,,C005702,Chose competitor
+O0395,Stahr - New Logo,A01652,U002,U006,New Logo,Closed Lost,Closed,89000,2025-08-13,2026-02-08,2026-04-09,2,True,False,Event,CMP044,Bigeye,2,,C006507,No decision
+O0396,Heß Sölzer Stiftung & Co. KG - New Logo,A00895,U003,U006,New Logo,Closed Lost,Closed,93000,2025-07-11,2025-10-31,2025-10-31,0,True,False,Webinar,CMP011,Bigeye,5,C005572,C005572,Chose competitor
+O0397,Bonilla PLC - Renewal,A01039,U003,U006,Renewal,Closed Won,Closed,159000,2025-06-29,2025-10-03,2025-12-02,2,True,True,Content Download,,None,8,C001260,C006681,
+O0398,Decker Inc - New Logo,A00289,U015,U018,New Logo,POC,Best Case,162000,2026-05-17,2026-09-11,2026-12-10,3,False,False,Partner,CMP009,None,6,C000358,C005375,
+O0399,Gordon LLC - New Logo,A00541,U003,U006,New Logo,Technical Validation,Pipeline,173000,2026-09-03,2027-01-02,2027-03-03,2,False,False,Partner,CMP044,None,4,,C004638,
+O0400,Demmendaal NV - New Logo,A00274,U009,U012,New Logo,Closed Won,Closed,153000,2025-08-31,2025-12-12,2026-02-10,2,True,True,Event,CMP007,Monte Carlo,11,C001448,C005258,

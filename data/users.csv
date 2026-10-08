@@ -1,0 +1,19 @@
+user_id,full_name,email,role,sales_region,manager_id,start_date,is_active
+U001,Donald Walker,donald.walker@acceldata-demo.io,Sales Manager,North America,,2025-08-02,True
+U002,Stephanie Miller,stephanie.miller@acceldata-demo.io,AE,North America,U001,2022-08-17,True
+U003,Amin Gellemeyer,amin.gellemeyer@acceldata-demo.io,AE,North America,U001,2022-02-21,True
+U004,Tina Foster,tina.foster@acceldata-demo.io,SDR,North America,U001,2023-07-18,True
+U005,Maria Nilsson,maria.nilsson@acceldata-demo.io,SDR,North America,U001,2023-05-17,True
+U006,Kian Schilt-Amalrada,kian.schilt-amalrada@acceldata-demo.io,SE,North America,U001,2023-04-03,True
+U007,Phillip Cook-Bryan,phillip.cook-bryan@acceldata-demo.io,Sales Manager,UK&I,,2022-10-13,True
+U008,Bastian Kramer,bastian.kramer@acceldata-demo.io,AE,UK&I,U007,2022-07-29,False
+U009,Gregory Baker,gregory.baker@acceldata-demo.io,AE,UK&I,U007,2025-01-21,True
+U010,Kimberly Dudley,kimberly.dudley@acceldata-demo.io,SDR,UK&I,U007,2022-06-28,True
+U011,Mason Smits,mason.smits@acceldata-demo.io,SDR,UK&I,U007,2025-04-24,True
+U012,Lars Nilsson,lars.nilsson@acceldata-demo.io,SE,UK&I,U007,2024-05-14,True
+U013,Patricia Galloway,patricia.galloway@acceldata-demo.io,Sales Manager,Continental Europe,,2022-03-07,True
+U014,Mr Karl White,mr.karl.white@acceldata-demo.io,AE,Continental Europe,U013,2022-03-03,True
+U015,Ing. Hans Dieter Häring,ing..hans.dieter.häring@acceldata-demo.io,AE,Continental Europe,U013,2022-07-11,True
+U016,Leif Schuster,leif.schuster@acceldata-demo.io,SDR,Continental Europe,U013,2023-03-24,True
+U017,Adrian Humphries,adrian.humphries@acceldata-demo.io,SDR,Continental Europe,U013,2023-04-22,True
+U018,Tirza Mosley,tirza.mosley@acceldata-demo.io,SE,Continental Europe,U013,2024-10-31,True
